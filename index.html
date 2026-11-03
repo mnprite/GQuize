@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Practice English grammar with quizzes based on your supplied grammar notes.">
+  <title>Grammar Practice — English Grammar & Verb Quiz</title>
+  <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="brand" data-view="dashboard" aria-label="Go to dashboard"><span class="brand-mark">G</span><span>Grammar Practice<small>English grammar & verb quiz</small></span></button>
+    <nav aria-label="Main navigation"><button class="nav-btn active" data-view="dashboard">Dashboard</button><button class="nav-btn" data-view="practice">Practice games</button><button class="nav-btn" data-view="library">Study library</button><button class="nav-btn" data-view="verbs">Verb & structure bank</button></nav>
+  </header>
+  <main class="container">
+    <section id="dashboard-view" class="view">
+      <div class="hero"><div><p class="eyebrow">LEARN · PRACTISE · REVIEW</p><h1>Build your English, one question at a time.</h1><p class="muted hero-copy">Practise with your supplied grammar notes, modal verbs, tenses, conjunctions and prepositions.</p></div><div class="hero-note"><span class="note-icon">✓</span><span><b>Made for focused practice</b><small>Random questions · Instant feedback · No progress bar</small></span></div></div>
+      <div id="stats" class="stats-grid"></div>
+      <div class="section-heading"><div><h2>Choose a practice session</h2><p class="muted">Start with one topic or mix the question bank.</p></div></div>
+      <div class="launch-grid">
+        <button class="launch-card featured" data-quiz="all-grammar"><span class="card-icon">↗</span><span class="card-title">All grammar quiz</span><span class="card-description">Random questions from every structured quiz topic.</span><span class="card-action">Start practice <span>→</span></span></button>
+        <button class="launch-card" data-quiz="all-verbs"><span class="card-icon">Aa</span><span class="card-title">All verbs & structures</span><span class="card-description">Mix modal verbs, tenses and verb structures.</span><span class="card-action">Start practice <span>→</span></span></button>
+        <button class="launch-card" data-view="library"><span class="card-icon">▤</span><span class="card-title">Study library</span><span class="card-description">Read and search the complete supplied source notes.</span><span class="card-action">Browse notes <span>→</span></span></button>
+      </div>
+      <div class="section-heading"><div><h2>Topics</h2><p class="muted">Choose a category-specific quiz.</p></div><span id="topic-count" class="count-label"></span></div>
+      <div id="category-grid" class="category-grid"></div>
+      <div class="section-heading"><div><h2>Practice games</h2><p class="muted">46 extra games: tenses, prepositions, conjunctions, verbs and combined practice.</p></div></div>
+      <div id="practice-launch" class="launch-grid"></div>
+    </section>
+
+    <section id="choice-view" class="view hidden">
+      <div class="quiz-top"><button class="text-button" id="choice-back">← Dashboard</button><span class="session-tag" id="choice-tag">Topic</span></div>
+      <div class="page-heading"><p class="eyebrow">CHOOSE HOW TO PRACTISE</p><h1 id="choice-title">Topic</h1><p class="muted" id="choice-sub"></p></div>
+      <div class="launch-grid choice-grid">
+        <button class="launch-card" id="choice-complete"><span class="card-icon">▤</span><span class="card-title" id="choice-complete-title">Complete quiz</span><span class="card-description" id="choice-complete-desc"></span><span class="card-action">Start practice <span>→</span></span></button>
+        <button class="launch-card featured" id="choice-specific"><span class="card-icon">◎</span><span class="card-title" id="choice-specific-title">Specific word quiz</span><span class="card-description" id="choice-specific-desc"></span><span class="card-action">Choose words <span>→</span></span></button>
+      </div>
+    </section>
+
+    <section id="wordselect-view" class="view hidden">
+      <div class="quiz-top"><button class="text-button" id="ws-back">← Back</button><span class="session-tag" id="ws-tag">Topic</span></div>
+      <div class="page-heading"><p class="eyebrow">SPECIFIC WORD PRACTICE</p><h1 id="ws-title">Specific word quiz</h1><p class="muted" id="ws-sub"></p></div>
+      <div class="ws-toolbar"><button class="secondary-btn" id="ws-select-all">Select all</button><button class="secondary-btn" id="ws-deselect-all">Deselect all</button><span class="count-label" id="ws-count">0 selected</span></div>
+      <div id="ws-summary" class="ws-summary" aria-live="polite"></div>
+      <div id="ws-grid" class="word-grid"></div>
+      <div class="ws-actions"><button class="primary-btn" id="ws-start" disabled>Start quiz</button></div>
+    </section>
+
+    <section id="quiz-view" class="view hidden">
+      <div class="quiz-top"><button class="text-button" id="back-dashboard">← Dashboard</button><span class="session-tag" id="quiz-category-label">Practice</span></div>
+      <div class="quiz-layout">
+        <section class="quiz-main panel">
+          <div id="word-banner" class="word-banner hidden"></div>
+          <div class="quiz-meta"><span id="question-number">Question 1</span><span id="mode-label">Multiple choice</span></div>
+          <h1 id="question-prompt">Question prompt</h1>
+          <div id="question-example" class="question-example hidden"></div>
+          <p id="question-instruction" class="question-instruction">Your answer?</p>
+          <p id="question-context" class="muted"></p>
+          <div id="mc-options" class="options"></div>
+          <form id="typed-form" class="typed-form hidden"><label for="typed-answer">Your answer</label><div class="typed-row"><input id="typed-answer" autocomplete="off" placeholder="Type your answer…"><button class="primary-btn" type="submit">Check answer</button></div><p class="input-help">Press Enter to submit. Capitalisation and extra spaces do not matter.</p></form>
+          <div id="feedback" class="feedback hidden" aria-live="polite"></div>
+          <div class="quiz-controls"><button id="skip-question" class="text-button">Skip question</button><div class="mode-switch"><button id="mode-mc" class="mode-btn active">Multiple choice</button><button id="mode-typed" class="mode-btn">Type answer</button></div></div>
+          <div id="results" class="results hidden"></div>
+        </section>
+        <aside class="quiz-side">
+          <section class="panel score-panel"><h3>Session score</h3><div class="score-number"><strong id="score-correct">0</strong><span>/ <span id="score-attempted">0</span></span></div><div class="score-details"><span>Correct <b id="score-correct-small">0</b></span><span>Incorrect <b id="score-wrong">0</b></span></div><div class="score-details"><span>Questions left <b id="score-remaining">—</b></span><span>Accuracy <b id="score-accuracy">—</b></span></div><div class="score-details"><span>Skipped <b id="score-skipped">0</b></span></div><button id="restart-quiz" class="secondary-btn full-width">Restart quiz</button></section>
+          <section id="word-score-panel" class="panel word-score-panel hidden"><h3>Word-wise score</h3><div id="word-score-list"></div></section>
+          <section class="panel review-panel"><div class="review-title"><h3>Correct answers <span id="correct-count" class="pill-count">0</span></h3><button class="text-button compact" id="toggle-correct">Hide</button></div><div id="correct-list" class="review-list"></div></section>
+          <section class="panel review-panel"><div class="review-title"><h3>Wrong answers <span id="wrong-count" class="pill-count">0</span></h3><button class="text-button compact" id="toggle-wrong">Hide</button></div><div id="wrong-list" class="review-list"></div><button id="retry-wrong" class="secondary-btn full-width hidden">Retry incorrect answers</button></section>
+        </aside>
+      </div>
+    </section>
+
+    <section id="practice-view" class="view hidden"></section>
+
+    <section id="library-view" class="view hidden">
+      <div class="page-heading"><p class="eyebrow">REFERENCE MATERIAL</p><h1>Study library</h1><p class="muted">Search and read the original text of each supplied grammar file. The original notes are preserved in this project.</p></div>
+      <div class="library-layout"><aside id="library-nav" class="panel library-nav"></aside><article class="panel document-panel"><div class="doc-toolbar"><div><span class="eyebrow">SOURCE NOTES</span><h2 id="doc-title">Choose a document</h2></div><input id="doc-search" placeholder="Search within notes…" aria-label="Search within notes"></div><div id="doc-content" class="doc-content"><p class="muted">Choose a source file on the left to read its contents.</p></div></article></div>
+    </section>
+
+    <section id="verbs-view" class="view hidden">
+      <div class="page-heading"><p class="eyebrow">FIND A PRACTICE ITEM</p><h1>Verb & structure bank</h1><p class="muted">Search individual question prompts and choose a focused quiz. This bank is generated from the supplied answer keys.</p></div>
+      <div class="bank-toolbar"><input id="verb-search" placeholder="Search verbs, forms or Hindi clues…" aria-label="Search verb and structure bank"><select id="verb-filter" aria-label="Filter by topic"><option value="all">All topics</option></select></div>
+      <div id="verb-list" class="verb-list"></div>
+    </section>
+  </main>
+  <footer><span>Grammar Practice</span><span>Content based on the supplied notes · Offline-ready</span></footer>
+  <script src="src/data.js"></script><script src="src/word-bank.js"></script><script src="src/app.js"></script>
+  <script src="src/practice-bank.js"></script><script src="src/practice-content.js"></script><script src="src/practice-gen.js"></script><script src="src/practice-ui.js"></script>
+</body>
+</html>

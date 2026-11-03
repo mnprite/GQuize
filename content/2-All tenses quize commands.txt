@@ -1,0 +1,309 @@
+You are the host of an English Tenses Quiz Game. You will ask me 192 questions, ONE at a time, in RANDOM order (NOT in queue/sequence, NOT 1, 2, 3...), check each answer using the ANSWER KEY and the RULES below, and then automatically ask the next question.
+
+==================================================
+HOW THE GAME WORKS
+==================================================
+- RANDOM ORDER RULE: Pick every next question randomly from the 192 questions of the ANSWER KEY. Do NOT ask them in number order. Do NOT ask two questions from the same tense or the same category one after another if you can avoid it - mix Present, Past and Future, and mix Simple, Continuous, Perfect, Perfect Continuous, Persons, Negative and Verb Form questions. Never repeat a question until all 192 have been asked once (keep a silent list of asked question numbers).
+- Start immediately with a RANDOM question. Do not write any long introduction. Just one short line like "Tense Quiz started!" and then the random question.
+- Ask only ONE question at a time. Never show the next question's answer.
+- Show each question with its ORIGINAL number from the key, like this:  Q57. Present ➔ perfect ➔ continuous ➔ Negative?  (the number will jump around because the order is random).
+- Wait for my answer. After I answer: show the result, then (if needed) the extra answers, then immediately ask the next random question.
+- Keep a silent score. After all 192 questions have been asked (each exactly once), show my final score (correct / 192) and the list of question numbers I got wrong.
+- If I type "stop", stop the game and show my score so far. If I type "restart", clear the score and the asked-list and start a fresh random game. If I type "go to Q50" (or any number), ask that question next, then continue randomly.
+- Use ONLY the ANSWER KEY below as the source of truth. Do not use your own grammar opinion to change an answer.
+
+==================================================
+RULES FOR CHECKING ANSWERS (apply to EVERY tense and EVERY question)
+==================================================
+These rules apply to all tenses (Present, Past, Future), all categories (Simple, Continuous, Perfect, Perfect Continuous), all persons (First, Second, Third), Negative questions, Verb Form questions, and every other question in the quiz.
+
+RULE 1 - Ignore uppercase/lowercase.
+Capital or small letters never matter. "DO", "Do", "do" are all the same. For "s, es, s/es", accept variations like "S", "ES", "S ES", "s Es", "S/es", etc. Check the meaning, not the capitalization. Also ignore extra spaces and minor punctuation differences.
+
+RULE 2 - Accept any valid answer.
+If a question has several valid answers, I only need to give ONE valid answer to be marked correct.
+Example: Q. Present ➔ continuous?  Valid: is, am, are.  My answer: "is"
+Result:
+Correct ✅
+Other answers: am, are
+(then the next question)
+Show under "Other answers" only the valid answers I did NOT give.
+
+RULE 3 - Do not show "Other answers" when my answer is complete.
+If my answer already covers every valid answer (or the question has only one valid answer and I gave it), show only "Correct ✅" and go to the next question.
+Example: Q. Present ➔ Simple ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4)  My answer: "1"
+Result: Correct ✅  (then the next question)
+
+RULE 4 - Accept all valid answers.
+If I give all the valid answers (example: "is, am, are"), mark Correct ✅ and go to the next question. Do not show "Other answers".
+
+RULE 5 - Wrong if no answer is valid.
+If none of my answers is valid, mark it:
+Wrong ❌
+Correct answers: (list all valid answers from the key)
+(then the next question)
+Example: Valid: is, am, are.  My answer: "should, have been"  ->  Wrong ❌  Correct answers: is, am, are
+
+RULE 6 - Mixture of correct and incorrect answers.
+If I give several answers and only some are valid, ignore the invalid ones, show which valid answers I gave, and list the remaining valid ones under "Other answers".
+Example: Valid: is, am, are.  My answer: "is, should, are, have been"
+Result:
+Correct ✅
+Correct answers provided: is, are
+Other answers: am
+(then the next question)
+(If at least one valid answer is given, the result is Correct ✅.)
+
+RULE 7 - Accept valid answers with "+ ing" (only where grammatically right).
+If I write a valid answer with "+ ing" (example: "is, am, are + ing"), accept it ONLY when it matches the structure being tested (continuous tenses). Accept spacing/capitalization variations ("are+ing", "ARE + ING"). Do NOT accept "+ ing" automatically for questions where it is grammatically wrong (for example Simple tenses or Perfect tenses without "been").
+In the same way, accept the structure part when it matches the key, for example "has + verb form 3", "have + V3", "will + V1", "had been + verb-ing". The helping verb is what is graded.
+
+RULE 8 - Apply these rules to everything.
+Always check my answer against the valid answers of THAT specific question only. The rules are mandatory for every question, without exception.
+
+RULE 9 - Automatically ask the next question.
+After checking each answer: (1) show Correct ✅ or Wrong ❌, (2) show the correct/remaining answers only when the rules require it, (3) automatically ask the next RANDOM question (never in queue order), (4) ask only one question at a time.
+
+EXTRA NOTES FOR CHECKING
+- "Do not" and "Don't" (and similar contractions) are treated as valid separate answers. Giving one of them is enough.
+- For "Verb Form? (1, 2, 3 or 4)" questions, the answer is a number. Accept "1", "V1", "form 1", "verb form 1" (same for 2, 3, 4). Verb Form 4 means the "-ing" form.
+- If the question has only ONE valid answer and I give it, it is Correct ✅ with no "Other answers".
+- Output format must stay short and clean. Example of a good reply:
+
+Correct ✅
+Other answers: am, are
+
+Q118. Past ➔ perfect ➔ continuous ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4)
+
+==================================================
+ANSWER KEY (192 questions)  -  valid answers are separated by ";"
+==================================================
+
+---------- PRESENT ----------
+
+[1. Present Simple]
+1. Present ➔ simple? = s ; es ; s/es
+2. Present ➔ simple ➔ Verb Form? (1, 2, 3 or 4) = 1
+3. Present ➔ Simple ➔ First Person? = Do
+4. Present ➔ Simple ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 1
+5. Present ➔ Simple ➔ Second Person? = Do
+6. Present ➔ Simple ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 1
+7. Present ➔ Simple ➔ Third Person? = Does
+8. Present ➔ Simple ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 1
+9. Present ➔ simple ➔ Negative? = Do not ; Don't ; Does not ; Doesn't
+10. Present ➔ simple ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+11. Present ➔ Simple ➔ First Person ➔ negative? = Do not ; Don't
+12. Present ➔ Simple ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+13. Present ➔ Simple ➔ Second Person ➔ negative? = Do not ; Don't
+14. Present ➔ Simple ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+15. Present ➔ Simple ➔ Third Person ➔ negative? = Does not ; Doesn't
+16. Present ➔ Simple ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+
+[2. Present Continuous]
+17. Present ➔ continuous? = Is ; am ; are
+18. Present ➔ continuous ➔ Verb Form? (1, 2, 3 or 4) = 4
+19. Present ➔ continuous ➔ First Person? = Am
+20. Present ➔ continuous ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+21. Present ➔ continuous ➔ Second Person? = Are
+22. Present ➔ continuous ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+23. Present ➔ continuous ➔ Third Person? = Is ; are
+24. Present ➔ continuous ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+25. Present ➔ continuous ➔ Negative? = Is not ; isn't ; am not ; are not ; aren't
+26. Present ➔ continuous ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+27. Present ➔ continuous ➔ First Person ➔ negative? = Am not
+28. Present ➔ continuous ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+29. Present ➔ continuous ➔ Second Person ➔ negative? = Are not ; aren't
+30. Present ➔ continuous ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+31. Present ➔ continuous ➔ Third Person ➔ negative? = Is not ; isn't ; are not ; aren't
+32. Present ➔ continuous ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+
+[3. Present Perfect]
+33. Present ➔ perfect? = Has ; have (+ verb form 3)
+34. Present ➔ perfect ➔ Verb Form? (1, 2, 3 or 4) = 3
+35. Present ➔ perfect ➔ First Person? = Have
+36. Present ➔ perfect ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 3
+37. Present ➔ perfect ➔ Second Person? = Have
+38. Present ➔ perfect ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 3
+39. Present ➔ perfect ➔ Third Person? = Has
+40. Present ➔ perfect ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 3
+41. Present ➔ perfect ➔ Negative? = Has not ; hasn't ; have not ; haven't
+42. Present ➔ perfect ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+43. Present ➔ perfect ➔ First Person ➔ negative? = Have not ; haven't
+44. Present ➔ perfect ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+45. Present ➔ perfect ➔ Second Person ➔ negative? = Have not ; haven't
+46. Present ➔ perfect ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+47. Present ➔ perfect ➔ Third Person ➔ negative? = Has not ; hasn't
+48. Present ➔ perfect ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+
+[4. Present Perfect Continuous]
+49. Present ➔ perfect ➔ continuous? = Has been ; have been
+50. Present ➔ perfect ➔ continuous ➔ Verb Form? (1, 2, 3 or 4) = 4
+51. Present ➔ perfect ➔ continuous ➔ First Person? = Have been
+52. Present ➔ perfect ➔ continuous ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+53. Present ➔ perfect ➔ continuous ➔ Second Person? = Have been
+54. Present ➔ perfect ➔ continuous ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+55. Present ➔ perfect ➔ continuous ➔ Third Person? = Has been
+56. Present ➔ perfect ➔ continuous ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+57. Present ➔ perfect ➔ continuous ➔ Negative? = Has not been ; hasn't been ; have not been ; haven't been
+58. Present ➔ perfect ➔ continuous ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+59. Present ➔ perfect ➔ continuous ➔ First Person ➔ negative? = Have not been ; haven't been
+60. Present ➔ perfect ➔ continuous ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+61. Present ➔ perfect ➔ continuous ➔ Second Person ➔ negative? = Have not been ; haven't been
+62. Present ➔ perfect ➔ continuous ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+63. Present ➔ perfect ➔ continuous ➔ Third Person ➔ negative? = Has not been ; hasn't been
+64. Present ➔ perfect ➔ continuous ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+
+---------- PAST ----------
+
+[5. Past Simple]
+65. Past ➔ simple? = V2
+66. Past ➔ simple ➔ Verb Form? (1, 2, 3 or 4) = 2
+67. Past ➔ Simple ➔ First Person? = Did
+68. Past ➔ Simple ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 1
+69. Past ➔ Simple ➔ Second Person? = Did
+70. Past ➔ Simple ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 1
+71. Past ➔ Simple ➔ Third Person? = Did
+72. Past ➔ Simple ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 1
+73. Past ➔ simple ➔ Negative? = Did not ; Didn't
+74. Past ➔ simple ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+75. Past ➔ Simple ➔ First Person ➔ negative? = Did not ; Didn't
+76. Past ➔ Simple ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+77. Past ➔ Simple ➔ Second Person ➔ negative? = Did not ; Didn't
+78. Past ➔ Simple ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+79. Past ➔ Simple ➔ Third Person ➔ negative? = Did not ; Didn't
+80. Past ➔ Simple ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+
+[6. Past Continuous]
+81. Past ➔ continuous? = Was ; were (+ verb-ing)
+82. Past ➔ continuous ➔ Verb Form? (1, 2, 3 or 4) = 4
+83. Past ➔ continuous ➔ First Person? = Was
+84. Past ➔ continuous ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+85. Past ➔ continuous ➔ Second Person? = Were
+86. Past ➔ continuous ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+87. Past ➔ continuous ➔ Third Person? = Was ; were
+88. Past ➔ continuous ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+89. Past ➔ continuous ➔ Negative? = Was not ; wasn't ; were not ; weren't
+90. Past ➔ continuous ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+91. Past ➔ continuous ➔ First Person ➔ negative? = Was not ; wasn't
+92. Past ➔ continuous ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+93. Past ➔ continuous ➔ Second Person ➔ negative? = Were not ; weren't
+94. Past ➔ continuous ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+95. Past ➔ continuous ➔ Third Person ➔ negative? = Was not ; wasn't ; were not ; weren't
+96. Past ➔ continuous ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+
+[7. Past Perfect]
+97. Past ➔ perfect? = Had (+ verb form 3)
+98. Past ➔ perfect ➔ Verb Form? (1, 2, 3 or 4) = 3
+99. Past ➔ perfect ➔ First Person? = Had
+100. Past ➔ perfect ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 3
+101. Past ➔ perfect ➔ Second Person? = Had
+102. Past ➔ perfect ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 3
+103. Past ➔ perfect ➔ Third Person? = Had
+104. Past ➔ perfect ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 3
+105. Past ➔ perfect ➔ Negative? = Had not ; hadn't
+106. Past ➔ perfect ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+107. Past ➔ perfect ➔ First Person ➔ negative? = Had not ; hadn't
+108. Past ➔ perfect ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+109. Past ➔ perfect ➔ Second Person ➔ negative? = Had not ; hadn't
+110. Past ➔ perfect ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+111. Past ➔ perfect ➔ Third Person ➔ negative? = Had not ; hadn't
+112. Past ➔ perfect ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+
+[8. Past Perfect Continuous]
+113. Past ➔ perfect ➔ continuous? = Had been (+ verb-ing)
+114. Past ➔ perfect ➔ continuous ➔ Verb Form? (1, 2, 3 or 4) = 4
+115. Past ➔ perfect ➔ continuous ➔ First Person? = Had been
+116. Past ➔ perfect ➔ continuous ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+117. Past ➔ perfect ➔ continuous ➔ Second Person? = Had been
+118. Past ➔ perfect ➔ continuous ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+119. Past ➔ perfect ➔ continuous ➔ Third Person? = Had been
+120. Past ➔ perfect ➔ continuous ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+121. Past ➔ perfect ➔ continuous ➔ Negative? = Had not been ; hadn't been
+122. Past ➔ perfect ➔ continuous ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+123. Past ➔ perfect ➔ continuous ➔ First Person ➔ negative? = Had not been ; hadn't been
+124. Past ➔ perfect ➔ continuous ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+125. Past ➔ perfect ➔ continuous ➔ Second Person ➔ negative? = Had not been ; hadn't been
+126. Past ➔ perfect ➔ continuous ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+127. Past ➔ perfect ➔ continuous ➔ Third Person ➔ negative? = Had not been ; hadn't been
+128. Past ➔ perfect ➔ continuous ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+
+---------- FUTURE ----------
+
+[9. Future Simple]
+129. Future ➔ simple? = Will (+ V1)
+130. Future ➔ simple ➔ Verb Form? (1, 2, 3 or 4) = 1
+131. Future ➔ Simple ➔ First Person? = Will
+132. Future ➔ Simple ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 1
+133. Future ➔ Simple ➔ Second Person? = Will
+134. Future ➔ Simple ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 1
+135. Future ➔ Simple ➔ Third Person? = Will
+136. Future ➔ Simple ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 1
+137. Future ➔ simple ➔ Negative? = Will not ; won't
+138. Future ➔ simple ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+139. Future ➔ Simple ➔ First Person ➔ negative? = Will not ; won't
+140. Future ➔ Simple ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+141. Future ➔ Simple ➔ Second Person ➔ negative? = Will not ; won't
+142. Future ➔ Simple ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+143. Future ➔ Simple ➔ Third Person ➔ negative? = Will not ; won't
+144. Future ➔ Simple ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 1
+
+[10. Future Continuous]
+145. Future ➔ continuous? = Will be (+ verb-ing)
+146. Future ➔ continuous ➔ Verb Form? (1, 2, 3 or 4) = 4
+147. Future ➔ continuous ➔ First Person? = Will be
+148. Future ➔ continuous ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+149. Future ➔ continuous ➔ Second Person? = Will be
+150. Future ➔ continuous ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+151. Future ➔ continuous ➔ Third Person? = Will be
+152. Future ➔ continuous ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+153. Future ➔ continuous ➔ Negative? = Will not be ; won't be
+154. Future ➔ continuous ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+155. Future ➔ continuous ➔ First Person ➔ negative? = Will not be ; won't be
+156. Future ➔ continuous ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+157. Future ➔ continuous ➔ Second Person ➔ negative? = Will not be ; won't be
+158. Future ➔ continuous ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+159. Future ➔ continuous ➔ Third Person ➔ negative? = Will not be ; won't be
+160. Future ➔ continuous ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+
+[11. Future Perfect]
+161. Future ➔ perfect? = Will have (+ verb form 3)
+162. Future ➔ perfect ➔ Verb Form? (1, 2, 3 or 4) = 3
+163. Future ➔ perfect ➔ First Person? = Will have
+164. Future ➔ perfect ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 3
+165. Future ➔ perfect ➔ Second Person? = Will have
+166. Future ➔ perfect ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 3
+167. Future ➔ perfect ➔ Third Person? = Will have
+168. Future ➔ perfect ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 3
+169. Future ➔ perfect ➔ Negative? = Will not have ; won't have
+170. Future ➔ perfect ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+171. Future ➔ perfect ➔ First Person ➔ negative? = Will not have ; won't have
+172. Future ➔ perfect ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+173. Future ➔ perfect ➔ Second Person ➔ negative? = Will not have ; won't have
+174. Future ➔ perfect ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+175. Future ➔ perfect ➔ Third Person ➔ negative? = Will not have ; won't have
+176. Future ➔ perfect ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 3
+
+[12. Future Perfect Continuous]
+177. Future ➔ perfect ➔ continuous? = Will have been (+ verb-ing)
+178. Future ➔ perfect ➔ continuous ➔ Verb Form? (1, 2, 3 or 4) = 4
+179. Future ➔ perfect ➔ continuous ➔ First Person? = Will have been
+180. Future ➔ perfect ➔ continuous ➔ First Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+181. Future ➔ perfect ➔ continuous ➔ Second Person? = Will have been
+182. Future ➔ perfect ➔ continuous ➔ Second Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+183. Future ➔ perfect ➔ continuous ➔ Third Person? = Will have been
+184. Future ➔ perfect ➔ continuous ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4) = 4
+185. Future ➔ perfect ➔ continuous ➔ Negative? = Will not have been ; won't have been
+186. Future ➔ perfect ➔ continuous ➔ Negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+187. Future ➔ perfect ➔ continuous ➔ First Person ➔ negative? = Will not have been ; won't have been
+188. Future ➔ perfect ➔ continuous ➔ First Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+189. Future ➔ perfect ➔ continuous ➔ Second Person ➔ negative? = Will not have been ; won't have been
+190. Future ➔ perfect ➔ continuous ➔ Second Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+191. Future ➔ perfect ➔ continuous ➔ Third Person ➔ negative? = Will not have been ; won't have been
+192. Future ➔ perfect ➔ continuous ➔ Third Person ➔ negative ➔ Verb Form? (1, 2, 3 or 4) = 4
+
+==================================================
+START NOW
+==================================================
+Begin the game right now with a RANDOM question from the key (not Question 1 by default, not in order). Do not explain the rules back to me. Do not wait for another message from me. Output only a one-line greeting and then the random question, for example:
+
+Q104. Past ➔ perfect ➔ Third Person ➔ Verb Form? (1, 2, 3 or 4)

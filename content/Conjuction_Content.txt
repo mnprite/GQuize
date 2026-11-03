@@ -1,0 +1,2615 @@
+> Conjunction (कंजंक्शन) – समुच्चय बोधक अव्यय
+
+Note: “Conjunction ऐसे शब्द होते हैं जो दो शब्दों या वाक्यों को जोड़ देते हैं।” इस तरह वाक्य भी छोटा हो जाता है और अर्थ भी नहीं बदलता। या फिर Conjunction की मदद से दो शब्दों या वाक्यों को लिंक किया जाता है।
+
+
+==================================================
+
+
+> And (और)
+
+Q. 1. और
+Example List [
+पंकज और रवि अच्छे दोस्त हैं।
+(Pankaj or Ravi achchhe dost hain.)
+Pankaj and Ravi are good friends.
+
+वो तुझे और मुझे मुम्बई भेज रहा है।
+(Vo tujhe aur mujhe Mumbai bhej raha hai.)
+He is sending you and me to Mumbai.
+]
+
+Ans. : And
+
+
+==================================================
+
+
+> Or (या)
+
+Q. 1. या
+Example List [
+आप ये किताब खरीद सकते हैं या फिर वो किताब।
+(Aap ye kitaab khareed sakte hain ya fir vo kitab.)
+You can buy this book or that book.
+
+मैं आपको क्या दूँ, ये या वो?
+(Main aapko kya doon, ye ya vo?)
+What shall I give you, this or that?
+]
+
+Ans. : Or
+
+
+==================================================
+
+
+> But (लेकिन / पर / परन्तु / सिवाय / अलावा / बल्कि)
+
+Q. 1. लेकिन / पर / परन्तु
+Example List [
+राम और श्याम अच्छे दोस्त हैं पर वो एक दूसरे से लड़ते हैं।
+(Ram aur Shyam achche dost hain par vo ek doosre se ladte hain.)
+Ram and Shyam are good friends but they fight with each other.
+
+वो बहुत समझदार है लेकिन उसके पास पैसे नहीं हैं।
+(Vo bahut samajhdar hai lein uske pass paise nahi hain.)
+He is very intelligent but he doesn’t have money.
+]
+
+Ans. : But
+
+
+Q. 2. सिवाय / अलावा
+Note: सिवाय / अलावा वाले वाक्यों (sentences) में but के अलावा except भी लगा सकते हैं।
+Example List [
+मैं तुम्हारे घर के अलावा कहीं भी जा सकता हूँ।
+(Main tumhare ghar ke alawa kahin bhi jaa sakta hoon.)
+I can go anywhere but not your home.
+I can go anywhere except your home.
+
+मैं कुछ भी कर सकता हूँ सिवाय तुम्हें पीटने के।
+(Main kuch bhi kar sakta hun sivay tumhe peetne ke.)
+I can do anything but not beat you.
+I can do anything except beat you.
+
+वो चिकन के अलावा कुछ भी खा सकता है।
+(Vo chicken ke alawa kuch bhi khaa sakta hai.)
+He can eat anything but not chicken.
+He can eat anything except chicken.
+]
+
+Ans. : But / Except
+
+
+Q. 3. बल्कि
+Example List [
+ये पैन नहीं बल्कि पैन्सिल है।
+(Ye pen nahi balki pencil hai.)
+This is not a pen but a pencil.
+
+संजय बेवकूफ़ नहीं बल्कि एक समझदार लड़का है।
+(Sanjay bewakoof nahi balki ek samjhdaar ladka hai.)
+Sanjay is not an idiot, but a sensible boy.
+
+उसे डाँटा नहीं गया बल्कि पीटा गया।
+(Use daanta nahi gaya balki peeta gaya.)
+He was not scolded but beaten.
+
+मुझे पैन नहीं बल्कि पैन्सिल दी गयी।
+(Mujhe pen nahi balki pencil di gayi.)
+I was not given a pen but a pencil.
+]
+
+Ans. : But
+
+
+==================================================
+
+
+> For / As / Because / Since (क्योंकि / चूँकि)
+
+Rule: “since” का प्रयोग केवल वाक्य के शुरुआत में होता है। “because” का प्रयोग केवल वाक्य के बीच में होता है। जब भी हम क्योंकि या चूँकि के लिए ‘for’ का प्रयोग वाक्य के बीच में करें तो हमें ‘for’ से पहले कौमा लगाना ज़रुरी है।
+
+Q. 1. क्योंकि
+Example List [
+मैं नहीं आया क्योंकि मैं बीमार था।
+(Main nahi aaya kyunki mai beemar tha.)
+I didn’t come because I was unwell.
+I didn’t come as I was unwell.
+I didn’t come, for I was unwell.
+]
+
+Ans. : Because / As / For
+
+
+Q. 2. चूँकि
+Example List [
+चूँकि मैं बीमार था, मैं नहीं आया ।
+(Chunki main beemar tha, main nahi aaya.)
+Since I was unwell, I didn’t come.
+As I was unwell, I didn’t come.
+For I was unwell, I didn’t come.
+]
+
+Ans. : Since / As / For
+
+
+==================================================
+
+
+> Also / Even / Either / Too / As well (भी)
+
+Rules:
+
+Also का प्रयोग प्रायः Negative वाक्यों में नहीं होता है।
+‘Also’ is generally not used in negative sentences.
+
+“Even”, “Too” और “As well” का प्रयोग Positive और Negative दोनों वाक्यों में होता है।
+“Even”, “Too” and “As well” are used in both positive and negative sentences.
+
+Either का प्रयोग हमेशा Negative वाक्यों में होता है।
+‘Either’ is always used in Negative sentences.
+
+नोट : पॉजिटिव वाक्य का मतलब होता है – हर वो वाक्य जिसमें not का प्रयोग न हुआ है, भले ही फिर वो प्रश्नवाचक वाक्य ही क्यों न हो।
+Note: Positive sentence simply means the sentence, in which ‘not’ is not used, even if it’s an interrogative sentence.
+
+दूसरी बात ये कि
+
+‘Also’ का प्रयोग सहायक क्रिया के बाद और क्रिया से पहले होता है।
+‘Also’ is used after the helping verb and before the main verb.
+
+Too, As well और Either का प्रयोग वाक्य के अन्त में होता है।
+Too, As well & Either are used at the end of the sentence.
+
+‘Even’ का प्रयोग वाक्य के शुरुआत में होता है।
+‘Even’ is used at the beginning of the sentence.
+
+एक बात और – ‘Even’ का प्रयोग Interrogative sentences में नहीं होता।
+
+उदाहरण (Examples) –
+
+Q. 1. भी (Positive Sentence)
+Example List [
+मैं भी एक अच्छा इंसान हूँ। (Positive Sentence)
+(Main bhi ek achcha insaan hun.)
+I am also a good person.
+Even I am a good person.
+I am a good person too.
+I am a good person as well.
+]
+
+Ans. : Also / Even / Too / As well
+
+
+Q. 2. भी (Negative Sentence)
+Example List [
+मैं भी एक अच्छा इंसान नहीं हूँ। (Negative Sentence)
+(Main bhi ek achcha insaan nahi hun.)
+Even I am not a good person.
+I am not a good person too.
+I am not a good person as well.
+I am not a good person either.
+]
+
+Ans. : Even / Too / As well / Either
+
+
+Q. 3. भी (Negative Interrogative Sentence)
+Example List [
+क्या तुम भी वहाँ नहीं थे ? (Negative Interrogative Sentence)
+(Kya tum bhi vahan nahi the?)
+Were you not there either?
+Were you not there too?
+Were you not there as well?
+]
+
+Note: (इस वाक्य में ‘Even’ का प्रयोग “भी” के अर्थ के लिए नहीं किया गया क्योंकि यह एक Interrogative sentence है और ‘Also” का प्रयोग भी नहीं किया गया क्योंकि यह एक Negative sentence भी है।)
+
+Ans. : Either / Too / As well
+
+
+Q. 4. भी (Negative Sentence)
+Example List [
+मैं भी फ़ल पसन्द नहीं करता। (Negative Sentence)
+(Main bhi phal pasand nahi karta.)
+Even I don’t like fruits.
+I don’t like fruits either.
+I don’t like fruits too.
+I don’t like fruits as well.
+]
+
+Ans. : Even / Either / Too / As well
+
+
+==================================================
+
+
+> So / Hence / That’s why / Therefore / That’s the reason (इसलिए)
+
+Q. 1. इसलिए
+Example List [
+मैं बीमार था, इसलिए मैं नहीं आया ।
+(Main beemar tha, isiliye main nahi aaya.)
+I was unwell, so I didn’t come.
+I was unwell, hence I didn’t come.
+I was unwell, that’s why I didn’t come.
+I was unwell, therefore I didn’t come.
+I was unwell, that’s the reason I didn’t come.
+
+उसने ढंग से नहीं पढ़ा इसीलिए वो परीक्षा में फेल हो गया।
+(Usne dhang se nahi pada isiliye vo pareeksha me fail ho gaya.)
+He didn’t study well, so he failed the exam.
+He didn’t study well, hence he failed the exam.
+He didn’t study well, that’s why he failed the exam.
+He didn’t study well, therefore he failed the exam.
+He didn’t study well, that’s the reason he failed the exam.
+]
+
+Ans. : So / Hence / That’s why / Therefore / That’s the reason
+
+
+==================================================
+
+
+> As (जैसा, के तौर पर, के नाते)
+
+Q. 1. जैसा
+Example List [
+जैसा आप कहें।
+(Jaisa aap kahein.)
+As you say.
+
+जैसी आपकी मर्ज़ी।
+(Jaisi aapki marzi.)
+As you wish.
+
+मैंने किया जैसा आपने कहा।
+(Maine kiya jaisa aapne kaha.)
+I did as you said.
+]
+
+Ans. : As
+
+
+Q. 2. के तौर पर
+Example List [
+मैं यहाँ मैनेजर के तौर पर काम कर रहा हूँ।
+(Main yahan manager ke taur par kaam kar raha hun.)
+I am working here as a manager.
+]
+
+Ans. : As
+
+
+Q. 3. के नाते
+Example List [
+एक टीचर होने के नाते, मेरा फर्ज़ है कि मैं अपने स्टूडेंन्ट्स को सही इंग्लिश सिखाऊँ।
+(Ek teacher hone ke naate mera farz hai ki main apne students ko sahi English sikhaun.)
+As a teacher, it’s my duty to teach correct English to my students.
+]
+
+Ans. : As
+
+
+==================================================
+
+
+> As soon as / The moment (जैसे ही)
+
+Q. 1. जैसे ही
+Example List [
+जैसे ही मैं तुझे कॉल करूँ, तू निकल जाना।
+(Jaise hi mai tujhe call karun, tu nikal jaana.)
+As soon as I call you,  you leave.
+The moment I call you, you leave.
+
+जैसे ही वो तुझे कॉल करे, तू निकल जाना।
+(Jaise hi vo tujhe call kare, tu nikal jaana.)
+As soon as he calls you, you leave.
+The moment he calls you,  you leave.
+
+जैसे ही वो आया, मैं चला गया।
+(Jaise hi vo aaya, mai chala gaya.)
+As soon as he came, I left./
+The moment he came, I left.
+
+मेरे घर आ जाना जैसे ही पापा आ जायें।
+(Mere ghar aa jaana jaise hi papa aa jayein.)
+Come to my home the moment dad comes./
+Come to my home as soon as dad comes.
+
+जैसे ही वो आयेगा, मैं ऑफिस निकल जाऊँगा।
+(Jaise hi vo aayega, main office nikal jaunga.)
+As soon as he comes, I’ll leave for the office.
+The moment he comes, I’ll leave for the office.
+]
+
+Ans. : As soon as / The moment
+
+
+==================================================
+
+
+> As well as (साथ ही साथ)
+
+Q. 1. साथ ही साथ
+Example List [
+रवि पढ़ा लिखा है साथ ही साथ उसके माता पिता भी पढ़े लिखे हैं।
+(Ravi pada likha hai sath hi sath uske maata pita bhi pade likhe hain.)
+Ravi is educated as well as his parents are also educated.
+
+वो अच्छा फुटबॉल खेलता है साथ ही साथ वो क्लास में फर्स्ट भी आता है।
+(Vo acha football khelta hai sath hi sath vo class me first bhi aata hai.)
+He plays football very well as well as he stands first in the class.
+]
+
+Ans. : As well as
+
+
+Q. 2. साथ ही साथ (Important Rule: दो subjects के बीच में)
+
+Important Rule:
+
+अगर “as well as” दो subjects के बीच में आया तो helping verb पहले वाले subject के अनुसार ही लगेगी।
+When two subjects are joined with “as well as”, the verb of the sentence should be used as per the first subject.
+
+Example:
+वो साथ ही साथ उसके दोस्त भी अच्छे हैं।
+यहाँ पर दो main subjects हैं – 1. He (वो)         2. His friends (उसके दोस्त).
+आपको लगेगा कि helping verb “is” नहीं बल्कि “are” लगनी चाहिए। पर Rule के अनुसार helping verb पहले वाले subject के अनुसार ही लगेगी। पहला subject है “He” इसलिए “is” लगेगा।
+
+Example List [
+वो साथ ही साथ उसके दोस्त भी अच्छे हैं।
+He as well as his friends is good.
+
+मैं, साथ ही साथ मेरे दोस्त भी यहाँ हैं।
+(Main, sath hi sath mere dost bhi yahan hain.)
+I as well as my friends am here.
+
+वो साथ ही साथ उसके तीन भाई अमेरिका जा रहे हैं।
+(Vo sath hi sath uske teen bhaee America jaa rahe hain.)
+He as well as his 3 brothers is going to America.
+]
+
+Ans. : As well as
+
+
+==================================================
+
+
+> As far as (जहाँ तक)
+
+Q. 1. जहाँ तक
+Example List [
+जहाँ तक मैं जानता हूँ, उसके दो बच्चे हैं।
+(Jahan tak mai jaanta hun, uske do bache hain.)
+As far as I know, he has two children.
+
+जहाँ तक मुझे पता है, उसकी शादी हो चुकी है।
+(Jahan tak mujhe pata hai, uski shadi ho chuki hai.)
+As far as I know, he is married.
+
+जहाँ तक मेरी पढ़ाई का सवाल है, मैं सिर्फ 12 वीं पास हूँ।
+(Jahan tak meri padhai ka sawal hai, main sirf 12 vi pass hun.)
+As far as my study is concerned, I am only 12th pass.
+
+जहाँ तक मेरे भाई का सवाल है, उसने ग्रैजुएशन कर ली है।
+(Jahan tak mere bhaee ka sawal hai, usne graduation kar li hai.)
+As far as my brother is concerned, he has done graduation.
+
+जहाँ तक मेरे परिवार का सवाल है, मम्मी पापा के अलावा मेरी दो बहनें हैं।
+(Jahan tak mere parivar ka sawal hai, Mummy Papa ke alawa meri do bhne hain.)
+As far as my family is concerned, apart from mom and dad, I have two sisters.
+
+जहाँ तक मेरे पापा मम्मी का सवाल है, मैं उनका ख्याल रखने के लिए काफी हूँ।
+(Jahan tak mere Papa Mummy ka sawal hai, main unka khyaal rakhne ke liye kaafi hun.)
+As far as my parents are concerned, I am good enough to take care of them.
+]
+
+Ans. : As far as
+
+
+==================================================
+
+
+> As + {adjective} + As / So + {adjective} + As (उतना + <विशेषण> + जितना)
+
+Phrase Examples:
+As tall as Amit  – उतना लम्बा जितना अमित / अमित के जितना लम्बा
+As short as Rakesh – उतना छोटा जितना राकेश / राकेश  के जितना छोटा
+As big as your house – उतना बड़ा जितना तुम्हारा घर / तुम्हारे घर के जितना बड़ा
+As black as coal – उतना काला जितना कोयला / कोयले के जितना काला
+As red as blood – उतना लाल जितना खून / खून के जितना लाल
+As strong as my dad – उतने मजबूत जितने मेरे पापा / मेरे पापा के जितना मजबूत
+
+Rule:
+As + {adjective} + As – In positive and negative both types of sentences
+So + {adjective} + As – Only in negative sentences
+
+Q. 1. उतना + <विशेषण> + जितना (Positive Sentence)
+Example List [
+तुम मेरे जितने चालाक हो।
+(Tum mere jitne chalak ho.)
+You are as clever as I am.
+]
+
+Ans. : As … As
+
+
+Q. 2. उतना + <विशेषण> + जितना (Negative Sentence)
+Example List [
+तुम मेरे जितने चालाक नहीं हो।
+(Tum mere jitne chalak nahi ho.)
+You are not as clever as I am.
+You are not so clever as I am.
+]
+
+Ans. : As … As / So … As
+
+
+Q. 3. उतना + <विशेषण> + जितना (Question Sentences)
+Example List [
+क्या तुम मेरे जितना अच्छा गा सकते हो ?
+(Kya tum mere jitna acha gaa sakte ho?)
+Can you sing as good as I can?
+
+क्या तुम मेरे जितना अच्छा नहीं गा सकते?
+(Kya tum mere jitna acha nahi gaa sakte?)
+Can’t you sing as good as I can? /
+Can’t you sing so good as I can?
+
+क्या तुम उसके जितना अच्छा नहीं गा सकते?
+(Kya tum uske jitna acha nahi gaa sakte?)
+Can’t you sing as good as he can? /
+Can’t you sing so good as he can?
+
+क्या तुम मेरी उम्र के हो ?
+(Kya tum meri umr ke ho?)
+Are you as old as I am? / Are you my age?
+]
+
+Ans. : As … As / So … As (So … As केवल Negative sentences में)
+
+
+==================================================
+
+
+> Although / Though / Even if / Even though (यद्यपि, हालाँकि, भले ही)
+> Then also / Even then / Yet / Still / However / Nevertheless (फिर भी, तब भी, इसके बावजूद भी)
+
+Q. 1. यद्यपि, हालाँकि, भले ही … फिर भी, तब भी, इसके बावजूद भी
+Example List [
+भले ही वो कभी स्कूल नहीं गया, फिर भी उसे सब आता है।
+(Bhale hi vo kabhi school nahi gaya, fir bhi use sab aata hai.)
+Even if he never went to school, then also he knows everything.
+Even though he never went to school, then also he knows everything.
+Though he never went to school, even then he knows everything.
+Although he never went to school, yet he knows everything.
+
+हालाँकि मैं गरीब हूँ, पर इसके बावजूद मैं तुम्हें पैसे से मदद करने की कोशिश  करुँगा।
+(Halanki main gareeb hun, par iske bawajood main tumhe paise se madad karne ki koshish karunga.)
+Although I am poor, still I will try to help you with money.
+
+हालाँकि मेरे पास पैसे नहीं  हैं, पर इसके बावजूद मैं तुम्हारी मदद करने की पूरी कोशिश  करुँगा।
+(Halanki mere pass paise nahi hai, par iske bawajood main tumhaari madad karne ki poori koshish karunga.)
+Although I don’t have money, still I will try my best to help you.
+
+हालाँकि ये मैंने नहीं किया है; पर फिर भी आप जो भी फैसला करें, मैं उसे मानूँगा।
+(Halanki ye maine nahi kiya hai; par fir bhee aap jo bhi faisla karein, main use manunga.)
+Though I haven’t done it, still whatever you decide, I will accept.
+
+हालाँकि मैं बीमार था, तब भी मैंने काम किया।
+(Halanki main beemar tha, tab bhi maine kaam kiya.)
+Even if I was unwell, then also I worked.
+]
+
+Ans. : Although / Though / Even if / Even though … Then also / Even then / Yet / Still / However / Nevertheless
+
+
+==================================================
+
+
+> Such (इस तरह का, ऐसा)
+
+Q. 1. इस तरह का, ऐसा
+Example List [
+ऐसे लोग स्वार्थी होते हैं।
+(Aise log swarthi hote hain.)
+Such people are selfish.
+
+ऐसे बच्चे मुझे पसन्द नहीं।
+(Aise bachche mujhe pasand nahi.)
+I don’t like such children.
+
+ऐसी कई कहानियाँ मैं सुन चुका हूँ।
+(Aisi kaee kahaniyan main sun chuka hun.)
+I have heard many such stories.
+]
+
+Ans. : Such
+
+
+==================================================
+
+
+> Such as (जैसे कि, उदाहरणत: )
+
+Q. 1. जैसे कि, उदाहरणत:
+Example List [
+मेरे पास कई चीज़ें हैं जैसे कि चार कम्प्यूटर, दो लैपटॉप, तीन मोबाइल इत्यादि।
+(Mere pass kaee cheezein hai jaise ki chaar computer, do laptop, teen mobile etc.)
+I have many things such as four computers, two laptops, three mobiles, etc.
+I have many things, e.g., four computers, two laptops, three mobiles, etc.
+
+उसके साथ कई लोग हैं जैसे कि रवि, राहुल, संजय आदि।
+(Uske saath kaee log hai, jaise ki Ravi, Rahul, Sanjay etc.)
+There are many people with him such as Ravi, Rahul, Sanjay, etc.
+]
+
+Ans. : Such as / e.g.
+
+
+==================================================
+
+
+> In such a way (इस तरह से, ऐसे )
+
+Q. 1. इस तरह से, ऐसे
+Example List [
+उसने इस तरह से मुझे घूरा कि मुझे लगा वो मुझसे लड़ने वाला है।
+(Usne is tarah se mujhe ghura ki mujhe laga vo mujhse ladne wala hai.)
+He stared at me in such a way that I thought he was going to fight me.
+
+तुम ऐसे बोलते हो कि हर कोई तुम्हारी बात सुनना पसन्द करता है।
+(Tum aise bolte ho ki har koi tumhaari baat sunna pasand karta hai.)
+You speak in such a way that everyone loves to listen to you.
+]
+
+Ans. : In such a way
+
+
+==================================================
+
+
+> As If / As though (ऐसे मानो; ऐसे जैसे कि )
+
+Q. 1. ऐसे मानो; ऐसे जैसे कि
+Example List [
+तुम तो हमें ऐसे बता रहे हो जैसे कि तुम्हें सब पता हो।
+(Tum to hume aise bata rahe ho jaise ki tumhe sab pata ho.)
+You are telling us as if you know everything.
+
+तुम तो ऐसे बात कर रहे हो जैसे मैं तुम्हारा दुश्मन हूँ।
+(Tum to aise baat kar rahe ho jaise main tumhaara dushman hun.)
+You are talking as if I am your enemy.
+
+तुम तो मुझे ऐसे डाँट रहे हो जैसे कि तुम मेरे बॉस हो।
+(Tum to mujhe aise daant rahe ho jaise ki tum mere boss ho.)
+You are scolding me as if you are my boss.
+
+वो मुझसे ऐसे व्यवहार कर रहे थे जैसे कि मैं उनका नौकर हूँ।
+(Vo mujhse aise vyavhar kar rahe the jaise ki main unka naukar hun.)
+He was treating me as if I was his servant.
+]
+
+Note: नोट – चौथे वाक्य में was का प्रयोग इसलिए हुआ है क्योंकि वाक्य बीते हुए समय की घटना को बता रहा है।
+Note – We used ‘was’ in the 4th sentence because the sentence refers to an incident in the past.
+
+Ans. : As if / As though
+
+
+==================================================
+
+
+> Either – or (या तो ये – या तो वो)
+
+Q. 1. या तो ये – या तो वो
+Example List [
+या तो तुम जाओ या मुझे जाने दो।
+(Ya to tum jaao ya mujhe jaane do.)
+Either you go or let me go.
+
+या तो राम जायेगा या फिर मैं जाऊँगा।
+(Ya to Ram jaayega ya fir main jaunga.)
+Either Ram will go or I will.
+
+मैं या तो दिल्ली जाऊँगा या मुम्बई।
+(Main ya to Delhi jaunga ya Mumbai.)
+I’ll either go to Delhi or Mumbai.
+
+या तो तुम गलत हो या वो।
+(Ya to tum galat ho ya vo.)
+Either you are wrong or he is.
+]
+
+Ans. : Either – or
+
+
+==================================================
+
+
+> Neither – nor ( न ये – न वो )
+
+Q. 1. न ये – न वो
+Example List [
+न तुम जाओ न उसे जाने दो।
+(Na tum jaao na use jaane do.)
+Neither you go nor let him go.
+
+मैं न दिल्ली जाऊँगा न मुम्बई।
+(Main na Delhi jaunga na Mumbai.)
+I’ll neither go to Delhi nor Mumbai.
+
+न मैं दिल्ली जाऊँगा न वो।
+(Na main Delhi jaunga na vo.)
+Neither I will go to Delhi nor he will.
+
+न तुम गलत हो न वो।
+(Na tum galat ho na vo.)
+Neither you are wrong nor he is.
+
+न मैंने उससे पूछा और न उसने मुझे बताया।
+(Na maine usse poocha aur na usne mujhe bataya.)
+Neither I asked him nor he told me.
+]
+
+Ans. : Neither – nor
+
+
+==================================================
+
+
+> Not …… Neither / Nor ( नहीं ….. वो भी नहीं )
+
+Q. 1. नहीं ….. वो भी नहीं
+Example List [
+तुम नहीं आते, वो भी नहीं आता।
+(Tum nahi aate , vo bhi nahi aata.)
+You don’t come, he doesn’t come either.
+You don’t come. Neither does he.
+You don’t come. Nor does he.
+
+मैंने नहीं पूछा। न उसने पूछा।
+(Maine nahi poocha. Na usne poocha.)
+I didn’t ask. He didn’t ask either.
+I didn’t ask. Neither did he.
+I didn’t ask. Nor did he.
+
+वो नहीं जा पाया। न मैं जा पाया।
+(Vo nahi jaa paaya. Na main jaa paaya.)
+He couldn’t go. I couldn’t go either.
+He couldn’t go. Neither could I.
+He couldn’t go. Nor could I.
+]
+
+Ans. : Either / Neither / Nor
+
+
+==================================================
+
+
+> So (वो भी)
+
+Q. 1. वो भी
+Example List [
+तुम आते हो। वो भी आता है।
+(Tum aate ho. Vo bhi aata hai.)
+You come. He comes too.
+You come. So does he.
+
+मैंने तुमसे पूछा। उसने भी।
+(Maine tumse poocha. Usne bhi.)
+I asked you. He asked too.
+I asked you. So did he.
+
+वो ये सफलतापूर्वक कर पाया। मैं भी।
+(Vo ye safaltapoorvak kar paaya. Main bhi.)
+He could do it successfully. I could do it successfully too.
+He could do it successfully. So could I.
+]
+
+Ans. : Too / So
+
+
+==================================================
+
+
+> Not only – but also (न केवल ये बल्कि वो भी  / यही नहीं वो भी)
+
+Q. 1. न केवल ये बल्कि वो भी / यही नहीं वो भी
+Example List [
+वो न केवल मैनेजर है बल्कि मेरा दोस्त भी है। / वो मैनेजर ही नहीं, मेरा दोस्त भी है।
+(Vo na kewal manager hai balki mera dost bhi hai / vo manager hi nahi, mera dost bhi hai.)
+He is not only the manager but also my friend.
+
+वो न केवल अंग्रेज़ी बल्कि पंजाबी भी बोल सकता है। / वो अंग्रेज़ी ही नहीं, पंजाबी भी बोल सकता है।
+(Vo na kewal angrezi balki punjabi bhi bol sakta hai. / vo angrezi hi nahi, punjabi bhi bol sakta hai.)
+He can speak not only English but also Punjabi.
+]
+
+Ans. : Not only – but also
+
+
+==================================================
+
+
+> Lest……should (कहीं ऐसा न हो कि, ये न हो कि )
+
+Rule: ‘Lest’ के बाद आने वाले वाक्य में ‘should’ का ही प्रयोग किया जाता है। (The sentence following ‘lest’ must use ‘should’ as a helping verb.)
+
+Q. 1. कहीं ऐसा न हो कि, ये न हो कि
+Example List [
+मैं मेहनत करुँगा कहीं ऐसा न हो कि मैं फेल हो जाऊँ।
+(Main mehnat karunga kahi aisa na ho ki main fail ho jaun.)
+I’ll work hard lest I should fail.
+
+सही पता लिखो कहीं ऐसा न हो कि कूरियर कहीं और चला जाए।
+(Sahi pata likho kahi aise na ho ki courier kahi aur chala jaye.)
+Write the correct address lest the courier should go somewhere else.
+
+वहाँ मत जाओ ये न हो कि वो तुम्हें डाँटें।
+(Vahan mat jaao ye na ho ki vo tumhe daante.)
+Don’t go there lest he should scold you.
+]
+
+Ans. : Lest … should
+
+
+==================================================
+
+
+> Otherwise / Or else (नहीं तो, वरना )
+
+Q. 1. नहीं तो, वरना
+Example List [
+मुझे मेहनत करनी पड़ेगी वरना मैं फेल हो जाऊँगा।
+(Mujhe mehnat karni padegi varna main fail ho jaunga.)
+I’ll have to work hard otherwise I will fail.
+I’ll have to work hard or else I will fail.
+
+सही पता लिखो नहीं तो कूरियर कहीं और जा सकता है।
+(Sahi pata likho nahin to courier kahin aur jaa sakta hai.)
+Write the correct address otherwise the courier can/could/may/might go somewhere else.
+Write the correct address or else the courier can/could/may/might go somewhere else.
+
+वहाँ मत जाओ नहीं तो वो तुम्हें डाँटेगा।
+(Vahan mat jaao nahi to vo tumhe daantega.)
+Don’t go there otherwise he will scold you.
+Don’t go there or else he will scold you.
+]
+
+Ans. : Otherwise / Or else
+
+
+==================================================
+
+
+> So that / So as to (ताकि )
+
+Q. 1. ताकि
+Example List [
+मैं मेहनत करुँगा ताकि मैं इग्ज़ैम में पास हो सकूँ।
+(Main mehnat karunga taki main exam me pass ho sakun.)
+I’ll work hard so that I could pass the exam.
+I’ll work hard so as to be able to pass the exam.
+
+सही पता लिखो ताकि कूरियर कहीं और न चला जाए।
+(Sahi pata likho taaki courier kahi aur na chala jaaye.)
+Write the correct address so that the courier doesn’t go anywhere else.
+Write the correct address so as to let the courier not go anywhere else.
+
+मेरे साथ ही रहो ताकि मैं बोर न होऊँ।
+(Mere saath hi raho taaki main bor na houn.)
+Stay with me so that I don’t get bored.
+Stay with me so as to let me not get bored.
+
+ये करो ताकि तुम भी कह सको कि तुमने कुछ किया है।
+(Ye karo taaki tum bhi keh sako ki tumne kuch kiya hai.)
+Do it so that you could also say that you have done something.
+Do it so as to be able to say that you have done something.
+]
+
+Ans. : So that / So as to
+
+
+==================================================
+
+
+> Provided / But only when / But only if (बशर्ते, पर शर्त  ये है कि, पर तब जब )
+
+Rule: Provided के साथ वाला वाक्य खंड ‘Present Indefinite Tense’ में ही बनता है भले ही वाक्य Future (गा गे गी) का हो।
+The clause with “Provided” must be in the present Indefinite Tense even if the clause appears to be in the future.
+
+Q. 1. बशर्ते, पर शर्त ये है कि, पर तब जब
+Example List [
+मैं तुमसे मिलूँगा, बशर्ते तुम मुझे वादा करो कि तुम मुझे रवि के बारे में नहीं पूछोगे।
+(Mai tumse milunga, basarte tum mujhe vada karo ki tum mujhe Ravi ke baare me nahi poochoge.)
+I’ll meet you, provided you promise me that you will not ask me about Ravi.
+I’ll meet you, but only when you promise me that you will not ask me about Ravi.
+I’ll meet you, but only if you promise me that you will not ask me about Ravi.
+
+वो आयेगा, पर शर्त ये है कि अमित नहीं आयेगा।
+(Vo aayega, par shart ye hai ki Amit nahi aayega.)
+He will come, provided Amit doesn’t come.
+He will come, but only when Amit doesn’t come.
+He will come, but only if Amit doesn’t come.
+
+मैं किताब वापस कर दूँगा पर तब जब आप मुझ पर पैनल्टी न लगाओ।
+(Main kitaab vapas kar dunga par tab jab aap mujh par penalty na lagao.)
+I’ll return the book, provided you don’t impose a penalty on me.
+I’ll give you the book, but only when you don’t impose a penalty on me.
+I’ll give you the book, but only if you don’t impose a penalty on me.
+]
+
+Ans. : Provided / But only when / But only if
+
+
+==================================================
+
+
+> “WH Word” used as a conjunction
+
+Q. 1. That’s what – यही तो, वही तो, यही बात तो, वही बात तो (किसी मुद्दे/वस्तु की बात हो रही है।) (talking about an issue or a thing)
+Example List [
+यही बात तो मैं कह रहा था।
+(Yahi baat to main keh raha tha.)
+That’s what I was saying.
+
+यही तो तुम उसे समझा रहे थे।
+(Yahi to tum use samjha rahe the.)
+That’s what you were making him understand.
+
+वही बात तो मुझे कन्फ्यूज़ कर रही है।
+(Vahi baat to mujhe confuse kar rahi hai.)
+That’s what is confusing me.
+
+यही तो मेरे पास नहीं है।
+(Yahi to mere pass nahi hai.)
+That’s what I don’t have.
+
+यही तो मैं ढूँढ रहा था।
+(Yahi to main dhoond raha tha.)
+That’s what I was looking for.
+
+यही किताब तो मैं ढूँढ रहा था।
+(Yahi kitaab to mai dhoond raha tha.)
+That’s the book I was looking for.
+
+वही तो मैंने वहाँ देखा।
+(Vahi to maine vahan dekha.)
+That’s what I saw there.
+
+वही पैन तो मैंने वहाँ देखा।
+(Vahi pen to maine vahan dekha.)
+That’s the pen I saw there.
+]
+
+Ans. : That’s what
+
+
+Q. 2. That’s whom – इसी को / उसी को (किसी सजीव (living being) की बात हो रही है।)
+Example List [
+मैंने उसी को डाँटा था।
+(Maine usi ko daanta tha.)
+That’s whom I had scolded.
+I had scolded him only.
+
+हम सब मदद के लिए उसी को बुला रहे थे।
+(Hum sab madad ke liye usi ko bula rahe the.)
+That’s whom we all were calling for help.
+We all were calling him only for help.
+
+वही तो मैंने वहाँ देखा।
+(Vahi to maine vahan dekha.)
+That’s whom I saw there.
+
+वही लड़का तो मैंने वहाँ देखा।
+(Vahi ladka to maine vahan dekha.)
+That’s the boy I saw there.
+
+उसी को मैंने ये काम दिया था।
+(Usi ko maine ye kaam diya tha.)
+That’s whom I had given this task to.
+
+उसी की बात मैं कर रहा था।
+(Usi kee baat main kar raha tha.)
+That’s whom I was talking about.
+
+उसी लड़के की बात मैं कर रहा था।
+(Usi ladke kee baat main kar raha tha.)
+That’s the boy I was talking about.
+]
+
+Ans. : That’s whom
+
+
+Q. 3. That’s where – यहीं तो, वहीं तो, इसी जगह तो, उसी जगह तो (किसी जगह की बात हो रही है।) (talking about a place)
+Example List [
+मैं वहीं तो जा रहा हूँ।
+(Main vahin to jaa raha hun.)
+That’s where I am going.
+
+वो उसी जगह तो खड़ा था।
+(Vo usi jagah to khada tha.)
+That’s where he was standing.
+
+हम यहीं तो मिले थे उस दिन।
+(Hum yahi to mile the us din.)
+That’s where we had met that day.
+
+आपने यहीं तो मेरे साथ मोमोज़ खाये थे।
+(Aapne yahin to mere saath momoz khaaye the.)
+That’s where you had eaten momos with me.
+]
+
+Ans. : That’s where
+
+
+Q. 4. That’s why – इसीलिए, तभी तो (किसी कारण की बात हो रही है।) (talking about a reason)
+Example List [
+तभी तो मैं तुम्हें बता रहा हूँ।
+(Tabhi to main tumhe bata raha hun.)
+That’s why I’m informing you.
+
+वो घर पर था इसीलिए मैंने कॉल किया।
+(Vo ghar par tha isiliye maine call kiya.)
+He was at home that’s why I called.
+
+मैं बीमार था, इसीलिए मैं नहीं आया ।
+(Main beemar tha, isiliye main nahi aaya.)
+I was unwell, that’s why I didn’t come.
+
+उसने ढंग से नहीं पढ़ा इसीलिए वो फेल हो गया।
+(Usne dhang se nahi pada isiliye vo fail ho gaya.)
+He didn’t study well, that’s why he failed.
+]
+
+Ans. : That’s why
+
+
+Q. 5. That’s how – इसी तरह तो, इसी तरह से (करने के तरीके की बात हो रही है।) (talking about a way of doing something.)
+Example List [
+मैंने ऐसे ही तो क्रिकेट खेलना सीखा।
+(Maine aise hi to cricket khelna seekha.)
+That’s how I learned to play cricket.
+
+मेरे पापा इसी तरह कम्प्यूटर सीखे।
+(Mere Papa isi tarah Computer seekhe.)
+That’s how my father learned computer.
+
+उसने इसी तरह मुझसे बात की वरना मैं उससे क्यों लड़ता!
+(Usne isi tarah mujhse baat ki varna main usse kyun ladta.)
+That’s how he talked to me otherwise why would I fight with him!
+]
+
+Ans. : That’s how
+
+
+Q. 6. That’s when – तभी, उसी समय (किसी समय की बात हो रही है।) (talking about a time)
+Example List [
+जब पापा आये, तभी मेरा दोस्त भी पहुँच गया।
+(Jab Papa aaye, tabhi mera dost bhi pahuch gaya.)
+When papa came, that’s when my friend reached too.
+
+उसी समय मैंने भी नौकरी ज्वाइन की।
+(Usi samay maine bhi naukri join ki.)
+That’s when I also joined the job.
+
+उसी साल मैंने भी नौकरी ज्वाइन की।
+(Usi saal maine bhi naukri join ki.)
+That’s the year I also joined the job.
+]
+
+Ans. : That’s when
+
+
+==================================================
+
+
+> While + Verb + ing
+
+Rule: “while” के बाद आने वाली क्रिया के साथ “ing” का प्रयोग होना अनिवार्य है। (The verb follows ‘while’ must be in the ‘ing’ form.)
+
+Q. 1. किसी काम को करते हुए दूसरा काम करना
+Example List [
+मैं चलते हुए पढ़ रहा हूँ।
+(Main chalte huwe pad raha hun.)
+I am studying while walking.
+
+क्या रवि पढ़ते हुए खाता है ?
+(Kya Ravi padhte huwe khaata hai?)
+Does Ravi eat while studying?
+
+वो मुझसे बात करते हुए तुम्हें देख रहा था।
+(Vo mujhse baat karte huwe tumhe dekh raha tha.)
+He was looking at you while talking to me.
+
+हम खेलते हुए लड़ रहे थे।
+(Hum khelte huwe lad rahe the.)
+We were fighting while playing.
+]
+
+Ans. : While + Verb + ing
+
+
+==================================================
+
+
+> Whereas / While (जबकि)
+
+Q. 1. जबकि
+Example List [
+मेरे पास 10 ₹ हैं जबकि तुम्हारे पास 50 ₹।
+(Mere pass 10 ₹ hai jabki tumhaare pass 50 ₹.)
+I have Rs 10 whereas you have 50. /
+I have Rs 10 while you have 50.
+
+जब रवि की शादी  हुई, वो 25 साल का था जबकि उसकी पत्नी 19 की।
+(Jab Ravi ki shadi hui, vo 25 saal ka tha jabki uski patni 19 ki.)
+When Ravi got married, he was 25 whereas his wife was 19. /
+When Ravi got married, he was 25 while his wife was 19.
+]
+
+Ans. : Whereas / While
+
+
+==================================================
+
+
+> Still / Even now (अभी भी, आज भी)
+
+Note:
+1. “still” का प्रयोग helping verb के बाद और main verb से पहले होता है, जबकि “even now” का प्रयोग हमेशा वाक्य की शुरूआत में या अन्त में होता है।
+“still” is used after the helping verb and just before the main verb, whereas “even now” is used either at the beginning or at the end of the sentence.
+2. “Even now” is generally used to express surprise or emphasis.
+
+Q. 1. अभी भी, आज भी
+Example List [
+मैं अभी भी पढ़ रहा हूँ।
+(Main abhi bhi pad raha hun.)
+I am still studying.
+I am studying even now.
+Even now, I am studying.
+
+क्या तुम्हारा भाई अभी भी खेलता है ?
+(Kya tumhaara bhaee abhi bhi khelta hai?)
+Does your brother still play?
+Does your brother play even now?
+
+वो आज भी मुझसे मिलता है।
+(Vo aaj bhi mujhse milta hai.)
+He still meets me.
+He meets me even now.
+Even now, he meets me.
+]
+
+Ans. : Still / Even now
+
+
+==================================================
+
+
+> Whether …… Or (चाहे —- या / कि —–या )
+
+Q. 1. Rule No 1: (चाहे —- या )
+Example List [
+चाहे वो आये या न आये, मैं तो जाऊँगा।
+(Chahe vo aaye ya na aaye, main to jaunga.)
+Whether he comes or not, I will go.
+
+चाहे पंकज खेले या न खेले, तुम्हें खेलना चाहिए।
+(Chahe Pankaj khele ya na khele, tumhe khelna chahiye.)
+Whether Pankaj plays or not, you should play.
+
+चाहे उसने किया या किसी और ने किया, कुल मिलाकर काम हो गया।
+(Chahe usne kiya ya kisi aur ne kiya, kul milakar kaam ho gya.)
+Whether he did it or someone else did it, ultimately the work is done.
+]
+
+Ans. : Whether … or
+
+
+Q. 2. Rule No 2: ( कि —– या )
+Example List [
+मैं कह नहीं सकता कि वो खेलेगा या नहीं।
+(Main keh nahi sakta ki vo khelega ya nahi.)
+I can’t say whether he will play or not.
+
+वो नहीं जानता था कि लोग आयेंगे भी या नहीं।
+(Vo nahi jaanta tha ki log aayenge bhi ya nahi.)
+He didn’t know whether people would come or not.
+
+हमें नहीं पता कि वो वहाँ जाता है या कहीं और।
+(Hume nahi pata ki vo vahan jaata hai ya kahi aur.)
+We have no idea whether he goes there or somewhere else.
+]
+
+Ans. : Whether … or
+
+
+==================================================
+
+
+> Hardly…….when / No sooner had…….than (ही था)
+
+Q. 1. ही था
+Example List [
+मैं पहुँचा ही था कि वो दोनों आ गये।
+(Main pahuncha hi tha ki vo dono aa gye.)
+I had hardly reached when they both came.
+No sooner had I reached than they both came.
+As soon as I reached, they both came.
+The moment I reached, they both came.
+
+हम स्टेशन पहुँचे ही थे कि ट्रेन चल दी।
+(Hum station pahunche hi the ki train chal di.)
+We had hardly reached the station when the train left.
+No sooner had we reached the station than the train left.
+As soon as we reached the station, the train left.
+The moment we reached the station, the train left.
+]
+
+Ans. : Hardly … when / No sooner had … than / As soon as / The moment
+
+
+==================================================
+
+
+> As yet / Yet / Till now / By now / So far (अभी तक, आज तक)
+
+Q. 1. अभी तक, आज तक
+Example List [
+मैंने अभी तक उसे नहीं देखा है।
+(Maine abhi tak use nahi dekha hai.)
+I have not seen him yet.
+I have not seen him as yet.
+I have not seen him till now.
+I have not seen him by now.
+I have not seen him so far.
+
+उसने अभी तक होमवर्क पूरा नहीं किया।
+(Usne abhi tak homework poora nahi kiya.)
+He hasn’t finished the homework yet.
+He hasn’t finished the homework as yet.
+He hasn’t finished the homework till now.
+He hasn’t finished the homework by now.
+He hasn’t finished the homework so far.
+
+अब तक का स्कोर क्या है?
+(Ab tak ka score kya hai?)
+What’s the score so far?
+What’s the score by now?
+What’s the score till now?
+
+अभी तक आपके पास क्या क्या है?
+(Abhi tak aapke paas kya kya hai?)
+What all do you have so far?
+What all do you have by now?
+What all do you have till now?
+]
+
+Ans. : As yet / Yet / Till now / By now / So far
+
+
+==================================================
+
+
+> Until / Unless (जब तक नहीं) & Till / Till the time (जब तक)
+
+Rule: महत्वपूर्ण बात ये है कि “जब तक” के साथ का वाक्य भले ही Future (गा गे गी) वाला हो पर फिर भी Present Indefinite Tense के अनुसार ही बनाया जाता है।
+
+Q. 1. जब तक नहीं / जब तक
+Example List [
+जब तक मैं नहीं आता, उसे कॉल मत करना।
+(Jab tak main nahi aata, use call mat karna.)
+Until I come, don’t call him.
+Unless I come, don’t call him.
+Until and Unless I come, don’t call him.
+Till I don’t come, don’t call him.
+Till the time I don’t come, don’t call him.
+
+हम नहीं खायेंगे जब तक वो नहीं आयेगा।
+(Hum nahi khayenge jab tak vo nahi aayega.)
+We will not eat until he comes.
+We will not eat unless he comes.
+We will not eat until and unless he comes.
+We will not eat till he doesn’t come.
+We will not eat till the time he doesn’t come.
+
+जब तक उन्होंने मुझसे नहीं पूछा, मैंने उन्हें नहीं बताया।
+(Jab tak unhone mujhe nhi poocha, maine unhe nahi bataya.)
+Until they asked me, I didn’t tell them.
+Unless they asked me, I didn’t tell them.
+Until and unless they asked me, I didn’t tell them.
+Till they didn’t ask me, I didn’t tell them.
+Till the time they didn’t ask me, I didn’t tell them.
+
+जब तक उसने नहीं पूछा, हम चुप रहे।
+(Jab tak usne nahi poocha, hum chup rahe.)
+Until he asked, we kept quiet.
+Unless he asked, we kept quiet.
+Until and unless he asked, we kept quiet.
+Till he didn’t ask, we kept quiet.
+Till the time he didn’t ask, we kept quiet.
+
+जब तक अमित मुझे अनुमति नहीं देगा, मैं चुप रहूँगा।
+(Jab tak Amit mujhe anumati nahi dega, main chup rahunga.)
+Until Amit allows me, I’ll keep quiet.
+Unless Amit allows me, I’ll keep quiet.
+Until and unless Amit allows me, I’ll keep quiet.
+Till Amit doesn’t allow me, I’ll keep quiet.
+Till the time Amit doesn’t allow me, I’ll keep quiet.
+
+जब तक आप हाँ नहीं कहेंगे, कोई नहीं हिलेगा।
+(Jab tak aap han nahi kahenge, koi nahi hilega.)
+Until you say yes, nobody will move.
+Unless you say yes, nobody will move.
+Till you don’t say yes, nobody will move.
+Till the time you don’t say yes, nobody will move.
+]
+
+Ans. : Until / Unless / Until and Unless / Till / Till the time
+
+
+==================================================
+
+
+> By the time (जब तक) / As long as (जब तक) = While = Till = Till the time
+
+Q. 1. By the time – जब तक
+Example List [
+जब तक वो आया, मैं जा चुका था।
+(Jab tak vo aaya , main jaa chuka tha.)
+By the time he came, I had left.
+
+जब तक आप अंग्रेज़ी सीखोगे, दुनिया फ्रैंच सीख रही होगी।
+(Jab tak aap Angrezi sikhoge, duniya French seekh rahi hogi.)
+By the time you learn English, the world will be learning French.
+]
+
+Ans. : By the time
+
+
+Q. 2. As long as / While / Till / Till the time – जब तक
+Example List [
+जब तक आप अंग्रेज़ी सीखोगे, मैं डांस सीखूँगा।
+(Jab tak aap angrezi sikhoge, main dance seekhunga.)
+As long as you learn English, I’ll learn dance.
+While you learn English, I’ll learn dance.
+Till you learn English, I’ll learn dance.
+Till the time you learn English, I’ll learn dance.
+
+जब तक तुम मेरे साथ हो, मुझे दुनिया की कोई परवाह नहीं।
+(Jab tak tum mere saath ho, mujhe duniya ki koi parvah nahi.)
+As long as you are with me, I don’t care about the world. /
+While you are with me, I don’t care about the world.
+
+जब तक तुम मेरे साथ हो, मैं लड़ता रहूँगा।
+(Jab tak tum mere saath ho, main ladta rahunga.)
+As long as you are with me, I will keep fighting. /
+While you are with me, I will keep fighting.
+
+जब तक तुम यहाँ हो, मैं भी रूकूँगा।
+(Jab tak tum yahan ho, main bhi rukunga.)
+As long as you’re here, I’ll stay too.
+While you’re here, I’ll stay too.
+]
+
+Ans. : As long as / While / Till / Till the time
+
+
+
+[> Conjunction (कंजंक्शन) – समुच्चय बोधक अव्यय
+
+Note: “Conjunction ऐसे शब्द होते हैं जो दो शब्दों या वाक्यों को जोड़ देते हैं।” इस तरह वाक्य भी छोटा हो जाता है और अर्थ भी नहीं बदलता। या फिर Conjunction की मदद से दो शब्दों या वाक्यों को लिंक किया जाता है।
+
+
+==================================================
+
+
+> And (और)
+
+Q. 1. और
+Example List [
+पंकज और रवि अच्छे दोस्त हैं।
+(Pankaj or Ravi achchhe dost hain.)
+Pankaj and Ravi are good friends.
+
+वो तुझे और मुझे मुम्बई भेज रहा है।
+(Vo tujhe aur mujhe Mumbai bhej raha hai.)
+He is sending you and me to Mumbai.
+]
+
+Ans. : And
+
+
+==================================================
+
+
+> Or (या)
+
+Q. 1. या
+Example List [
+आप ये किताब खरीद सकते हैं या फिर वो किताब।
+(Aap ye kitaab khareed sakte hain ya fir vo kitab.)
+You can buy this book or that book.
+
+मैं आपको क्या दूँ, ये या वो?
+(Main aapko kya doon, ye ya vo?)
+What shall I give you, this or that?
+]
+
+Ans. : Or
+
+
+==================================================
+
+
+> But (लेकिन / पर / परन्तु / सिवाय / अलावा / बल्कि)
+
+Q. 1. लेकिन / पर / परन्तु
+Example List [
+राम और श्याम अच्छे दोस्त हैं पर वो एक दूसरे से लड़ते हैं।
+(Ram aur Shyam achche dost hain par vo ek doosre se ladte hain.)
+Ram and Shyam are good friends but they fight with each other.
+
+वो बहुत समझदार है लेकिन उसके पास पैसे नहीं हैं।
+(Vo bahut samajhdar hai lein uske pass paise nahi hain.)
+He is very intelligent but he doesn’t have money.
+]
+
+Ans. : But
+
+
+Q. 2. सिवाय / अलावा
+Note: सिवाय / अलावा वाले वाक्यों (sentences) में but के अलावा except भी लगा सकते हैं।
+Example List [
+मैं तुम्हारे घर के अलावा कहीं भी जा सकता हूँ।
+(Main tumhare ghar ke alawa kahin bhi jaa sakta hoon.)
+I can go anywhere but not your home.
+I can go anywhere except your home.
+
+मैं कुछ भी कर सकता हूँ सिवाय तुम्हें पीटने के।
+(Main kuch bhi kar sakta hun sivay tumhe peetne ke.)
+I can do anything but not beat you.
+I can do anything except beat you.
+
+वो चिकन के अलावा कुछ भी खा सकता है।
+(Vo chicken ke alawa kuch bhi khaa sakta hai.)
+He can eat anything but not chicken.
+He can eat anything except chicken.
+]
+
+Ans. : But / Except
+
+
+Q. 3. बल्कि
+Example List [
+ये पैन नहीं बल्कि पैन्सिल है।
+(Ye pen nahi balki pencil hai.)
+This is not a pen but a pencil.
+
+संजय बेवकूफ़ नहीं बल्कि एक समझदार लड़का है।
+(Sanjay bewakoof nahi balki ek samjhdaar ladka hai.)
+Sanjay is not an idiot, but a sensible boy.
+
+उसे डाँटा नहीं गया बल्कि पीटा गया।
+(Use daanta nahi gaya balki peeta gaya.)
+He was not scolded but beaten.
+
+मुझे पैन नहीं बल्कि पैन्सिल दी गयी।
+(Mujhe pen nahi balki pencil di gayi.)
+I was not given a pen but a pencil.
+]
+
+Ans. : But
+
+
+==================================================
+
+
+> For / As / Because / Since (क्योंकि / चूँकि)
+
+Rule: “since” का प्रयोग केवल वाक्य के शुरुआत में होता है। “because” का प्रयोग केवल वाक्य के बीच में होता है। जब भी हम क्योंकि या चूँकि के लिए ‘for’ का प्रयोग वाक्य के बीच में करें तो हमें ‘for’ से पहले कौमा लगाना ज़रुरी है।
+
+Q. 1. क्योंकि
+Example List [
+मैं नहीं आया क्योंकि मैं बीमार था।
+(Main nahi aaya kyunki mai beemar tha.)
+I didn’t come because I was unwell.
+I didn’t come as I was unwell.
+I didn’t come, for I was unwell.
+]
+
+Ans. : Because / As / For
+
+
+Q. 2. चूँकि
+Example List [
+चूँकि मैं बीमार था, मैं नहीं आया ।
+(Chunki main beemar tha, main nahi aaya.)
+Since I was unwell, I didn’t come.
+As I was unwell, I didn’t come.
+For I was unwell, I didn’t come.
+]
+
+Ans. : Since / As / For
+
+
+==================================================
+
+
+> Also / Even / Either / Too / As well (भी)
+
+Rules:
+
+Also का प्रयोग प्रायः Negative वाक्यों में नहीं होता है।
+‘Also’ is generally not used in negative sentences.
+
+“Even”, “Too” और “As well” का प्रयोग Positive और Negative दोनों वाक्यों में होता है।
+“Even”, “Too” and “As well” are used in both positive and negative sentences.
+
+Either का प्रयोग हमेशा Negative वाक्यों में होता है।
+‘Either’ is always used in Negative sentences.
+
+नोट : पॉजिटिव वाक्य का मतलब होता है – हर वो वाक्य जिसमें not का प्रयोग न हुआ है, भले ही फिर वो प्रश्नवाचक वाक्य ही क्यों न हो।
+Note: Positive sentence simply means the sentence, in which ‘not’ is not used, even if it’s an interrogative sentence.
+
+दूसरी बात ये कि
+
+‘Also’ का प्रयोग सहायक क्रिया के बाद और क्रिया से पहले होता है।
+‘Also’ is used after the helping verb and before the main verb.
+
+Too, As well और Either का प्रयोग वाक्य के अन्त में होता है।
+Too, As well & Either are used at the end of the sentence.
+
+‘Even’ का प्रयोग वाक्य के शुरुआत में होता है।
+‘Even’ is used at the beginning of the sentence.
+
+एक बात और – ‘Even’ का प्रयोग Interrogative sentences में नहीं होता।
+
+उदाहरण (Examples) –
+
+Q. 1. भी (Positive Sentence)
+Example List [
+मैं भी एक अच्छा इंसान हूँ। (Positive Sentence)
+(Main bhi ek achcha insaan hun.)
+I am also a good person.
+Even I am a good person.
+I am a good person too.
+I am a good person as well.
+]
+
+Ans. : Also / Even / Too / As well
+
+
+Q. 2. भी (Negative Sentence)
+Example List [
+मैं भी एक अच्छा इंसान नहीं हूँ। (Negative Sentence)
+(Main bhi ek achcha insaan nahi hun.)
+Even I am not a good person.
+I am not a good person too.
+I am not a good person as well.
+I am not a good person either.
+]
+
+Ans. : Even / Too / As well / Either
+
+
+Q. 3. भी (Negative Interrogative Sentence)
+Example List [
+क्या तुम भी वहाँ नहीं थे ? (Negative Interrogative Sentence)
+(Kya tum bhi vahan nahi the?)
+Were you not there either?
+Were you not there too?
+Were you not there as well?
+]
+
+Note: (इस वाक्य में ‘Even’ का प्रयोग “भी” के अर्थ के लिए नहीं किया गया क्योंकि यह एक Interrogative sentence है और ‘Also” का प्रयोग भी नहीं किया गया क्योंकि यह एक Negative sentence भी है।)
+
+Ans. : Either / Too / As well
+
+
+Q. 4. भी (Negative Sentence)
+Example List [
+मैं भी फ़ल पसन्द नहीं करता। (Negative Sentence)
+(Main bhi phal pasand nahi karta.)
+Even I don’t like fruits.
+I don’t like fruits either.
+I don’t like fruits too.
+I don’t like fruits as well.
+]
+
+Ans. : Even / Either / Too / As well
+
+
+==================================================
+
+
+> So / Hence / That’s why / Therefore / That’s the reason (इसलिए)
+
+Q. 1. इसलिए
+Example List [
+मैं बीमार था, इसलिए मैं नहीं आया ।
+(Main beemar tha, isiliye main nahi aaya.)
+I was unwell, so I didn’t come.
+I was unwell, hence I didn’t come.
+I was unwell, that’s why I didn’t come.
+I was unwell, therefore I didn’t come.
+I was unwell, that’s the reason I didn’t come.
+
+उसने ढंग से नहीं पढ़ा इसीलिए वो परीक्षा में फेल हो गया।
+(Usne dhang se nahi pada isiliye vo pareeksha me fail ho gaya.)
+He didn’t study well, so he failed the exam.
+He didn’t study well, hence he failed the exam.
+He didn’t study well, that’s why he failed the exam.
+He didn’t study well, therefore he failed the exam.
+He didn’t study well, that’s the reason he failed the exam.
+]
+
+Ans. : So / Hence / That’s why / Therefore / That’s the reason
+
+
+==================================================
+
+
+> As (जैसा, के तौर पर, के नाते)
+
+Q. 1. जैसा
+Example List [
+जैसा आप कहें।
+(Jaisa aap kahein.)
+As you say.
+
+जैसी आपकी मर्ज़ी।
+(Jaisi aapki marzi.)
+As you wish.
+
+मैंने किया जैसा आपने कहा।
+(Maine kiya jaisa aapne kaha.)
+I did as you said.
+]
+
+Ans. : As
+
+
+Q. 2. के तौर पर
+Example List [
+मैं यहाँ मैनेजर के तौर पर काम कर रहा हूँ।
+(Main yahan manager ke taur par kaam kar raha hun.)
+I am working here as a manager.
+]
+
+Ans. : As
+
+
+Q. 3. के नाते
+Example List [
+एक टीचर होने के नाते, मेरा फर्ज़ है कि मैं अपने स्टूडेंन्ट्स को सही इंग्लिश सिखाऊँ।
+(Ek teacher hone ke naate mera farz hai ki main apne students ko sahi English sikhaun.)
+As a teacher, it’s my duty to teach correct English to my students.
+]
+
+Ans. : As
+
+
+==================================================
+
+
+> As soon as / The moment (जैसे ही)
+
+Q. 1. जैसे ही
+Example List [
+जैसे ही मैं तुझे कॉल करूँ, तू निकल जाना।
+(Jaise hi mai tujhe call karun, tu nikal jaana.)
+As soon as I call you,  you leave.
+The moment I call you, you leave.
+
+जैसे ही वो तुझे कॉल करे, तू निकल जाना।
+(Jaise hi vo tujhe call kare, tu nikal jaana.)
+As soon as he calls you, you leave.
+The moment he calls you,  you leave.
+
+जैसे ही वो आया, मैं चला गया।
+(Jaise hi vo aaya, mai chala gaya.)
+As soon as he came, I left./
+The moment he came, I left.
+
+मेरे घर आ जाना जैसे ही पापा आ जायें।
+(Mere ghar aa jaana jaise hi papa aa jayein.)
+Come to my home the moment dad comes./
+Come to my home as soon as dad comes.
+
+जैसे ही वो आयेगा, मैं ऑफिस निकल जाऊँगा।
+(Jaise hi vo aayega, main office nikal jaunga.)
+As soon as he comes, I’ll leave for the office.
+The moment he comes, I’ll leave for the office.
+]
+
+Ans. : As soon as / The moment
+
+
+==================================================
+
+
+> As well as (साथ ही साथ)
+
+Q. 1. साथ ही साथ
+Example List [
+रवि पढ़ा लिखा है साथ ही साथ उसके माता पिता भी पढ़े लिखे हैं।
+(Ravi pada likha hai sath hi sath uske maata pita bhi pade likhe hain.)
+Ravi is educated as well as his parents are also educated.
+
+वो अच्छा फुटबॉल खेलता है साथ ही साथ वो क्लास में फर्स्ट भी आता है।
+(Vo acha football khelta hai sath hi sath vo class me first bhi aata hai.)
+He plays football very well as well as he stands first in the class.
+]
+
+Ans. : As well as
+
+
+Q. 2. साथ ही साथ (Important Rule: दो subjects के बीच में)
+
+Important Rule:
+
+अगर “as well as” दो subjects के बीच में आया तो helping verb पहले वाले subject के अनुसार ही लगेगी।
+When two subjects are joined with “as well as”, the verb of the sentence should be used as per the first subject.
+
+Example:
+वो साथ ही साथ उसके दोस्त भी अच्छे हैं।
+यहाँ पर दो main subjects हैं – 1. He (वो)         2. His friends (उसके दोस्त).
+आपको लगेगा कि helping verb “is” नहीं बल्कि “are” लगनी चाहिए। पर Rule के अनुसार helping verb पहले वाले subject के अनुसार ही लगेगी। पहला subject है “He” इसलिए “is” लगेगा।
+
+Example List [
+वो साथ ही साथ उसके दोस्त भी अच्छे हैं।
+He as well as his friends is good.
+
+मैं, साथ ही साथ मेरे दोस्त भी यहाँ हैं।
+(Main, sath hi sath mere dost bhi yahan hain.)
+I as well as my friends am here.
+
+वो साथ ही साथ उसके तीन भाई अमेरिका जा रहे हैं।
+(Vo sath hi sath uske teen bhaee America jaa rahe hain.)
+He as well as his 3 brothers is going to America.
+]
+
+Ans. : As well as
+
+
+==================================================
+
+
+> As far as (जहाँ तक)
+
+Q. 1. जहाँ तक
+Example List [
+जहाँ तक मैं जानता हूँ, उसके दो बच्चे हैं।
+(Jahan tak mai jaanta hun, uske do bache hain.)
+As far as I know, he has two children.
+
+जहाँ तक मुझे पता है, उसकी शादी हो चुकी है।
+(Jahan tak mujhe pata hai, uski shadi ho chuki hai.)
+As far as I know, he is married.
+
+जहाँ तक मेरी पढ़ाई का सवाल है, मैं सिर्फ 12 वीं पास हूँ।
+(Jahan tak meri padhai ka sawal hai, main sirf 12 vi pass hun.)
+As far as my study is concerned, I am only 12th pass.
+
+जहाँ तक मेरे भाई का सवाल है, उसने ग्रैजुएशन कर ली है।
+(Jahan tak mere bhaee ka sawal hai, usne graduation kar li hai.)
+As far as my brother is concerned, he has done graduation.
+
+जहाँ तक मेरे परिवार का सवाल है, मम्मी पापा के अलावा मेरी दो बहनें हैं।
+(Jahan tak mere parivar ka sawal hai, Mummy Papa ke alawa meri do bhne hain.)
+As far as my family is concerned, apart from mom and dad, I have two sisters.
+
+जहाँ तक मेरे पापा मम्मी का सवाल है, मैं उनका ख्याल रखने के लिए काफी हूँ।
+(Jahan tak mere Papa Mummy ka sawal hai, main unka khyaal rakhne ke liye kaafi hun.)
+As far as my parents are concerned, I am good enough to take care of them.
+]
+
+Ans. : As far as
+
+
+==================================================
+
+
+> As + {adjective} + As / So + {adjective} + As (उतना + <विशेषण> + जितना)
+
+Phrase Examples:
+As tall as Amit  – उतना लम्बा जितना अमित / अमित के जितना लम्बा
+As short as Rakesh – उतना छोटा जितना राकेश / राकेश  के जितना छोटा
+As big as your house – उतना बड़ा जितना तुम्हारा घर / तुम्हारे घर के जितना बड़ा
+As black as coal – उतना काला जितना कोयला / कोयले के जितना काला
+As red as blood – उतना लाल जितना खून / खून के जितना लाल
+As strong as my dad – उतने मजबूत जितने मेरे पापा / मेरे पापा के जितना मजबूत
+
+Rule:
+As + {adjective} + As – In positive and negative both types of sentences
+So + {adjective} + As – Only in negative sentences
+
+Q. 1. उतना + <विशेषण> + जितना (Positive Sentence)
+Example List [
+तुम मेरे जितने चालाक हो।
+(Tum mere jitne chalak ho.)
+You are as clever as I am.
+]
+
+Ans. : As … As
+
+
+Q. 2. उतना + <विशेषण> + जितना (Negative Sentence)
+Example List [
+तुम मेरे जितने चालाक नहीं हो।
+(Tum mere jitne chalak nahi ho.)
+You are not as clever as I am.
+You are not so clever as I am.
+]
+
+Ans. : As … As / So … As
+
+
+Q. 3. उतना + <विशेषण> + जितना (Question Sentences)
+Example List [
+क्या तुम मेरे जितना अच्छा गा सकते हो ?
+(Kya tum mere jitna acha gaa sakte ho?)
+Can you sing as good as I can?
+
+क्या तुम मेरे जितना अच्छा नहीं गा सकते?
+(Kya tum mere jitna acha nahi gaa sakte?)
+Can’t you sing as good as I can? /
+Can’t you sing so good as I can?
+
+क्या तुम उसके जितना अच्छा नहीं गा सकते?
+(Kya tum uske jitna acha nahi gaa sakte?)
+Can’t you sing as good as he can? /
+Can’t you sing so good as he can?
+
+क्या तुम मेरी उम्र के हो ?
+(Kya tum meri umr ke ho?)
+Are you as old as I am? / Are you my age?
+]
+
+Ans. : As … As / So … As (So … As केवल Negative sentences में)
+
+
+==================================================
+
+
+> Although / Though / Even if / Even though (यद्यपि, हालाँकि, भले ही)
+> Then also / Even then / Yet / Still / However / Nevertheless (फिर भी, तब भी, इसके बावजूद भी)
+
+Q. 1. यद्यपि, हालाँकि, भले ही … फिर भी, तब भी, इसके बावजूद भी
+Example List [
+भले ही वो कभी स्कूल नहीं गया, फिर भी उसे सब आता है।
+(Bhale hi vo kabhi school nahi gaya, fir bhi use sab aata hai.)
+Even if he never went to school, then also he knows everything.
+Even though he never went to school, then also he knows everything.
+Though he never went to school, even then he knows everything.
+Although he never went to school, yet he knows everything.
+
+हालाँकि मैं गरीब हूँ, पर इसके बावजूद मैं तुम्हें पैसे से मदद करने की कोशिश  करुँगा।
+(Halanki main gareeb hun, par iske bawajood main tumhe paise se madad karne ki koshish karunga.)
+Although I am poor, still I will try to help you with money.
+
+हालाँकि मेरे पास पैसे नहीं  हैं, पर इसके बावजूद मैं तुम्हारी मदद करने की पूरी कोशिश  करुँगा।
+(Halanki mere pass paise nahi hai, par iske bawajood main tumhaari madad karne ki poori koshish karunga.)
+Although I don’t have money, still I will try my best to help you.
+
+हालाँकि ये मैंने नहीं किया है; पर फिर भी आप जो भी फैसला करें, मैं उसे मानूँगा।
+(Halanki ye maine nahi kiya hai; par fir bhee aap jo bhi faisla karein, main use manunga.)
+Though I haven’t done it, still whatever you decide, I will accept.
+
+हालाँकि मैं बीमार था, तब भी मैंने काम किया।
+(Halanki main beemar tha, tab bhi maine kaam kiya.)
+Even if I was unwell, then also I worked.
+]
+
+Ans. : Although / Though / Even if / Even though … Then also / Even then / Yet / Still / However / Nevertheless
+
+
+==================================================
+
+
+> Such (इस तरह का, ऐसा)
+
+Q. 1. इस तरह का, ऐसा
+Example List [
+ऐसे लोग स्वार्थी होते हैं।
+(Aise log swarthi hote hain.)
+Such people are selfish.
+
+ऐसे बच्चे मुझे पसन्द नहीं।
+(Aise bachche mujhe pasand nahi.)
+I don’t like such children.
+
+ऐसी कई कहानियाँ मैं सुन चुका हूँ।
+(Aisi kaee kahaniyan main sun chuka hun.)
+I have heard many such stories.
+]
+
+Ans. : Such
+
+
+==================================================
+
+
+> Such as (जैसे कि, उदाहरणत: )
+
+Q. 1. जैसे कि, उदाहरणत:
+Example List [
+मेरे पास कई चीज़ें हैं जैसे कि चार कम्प्यूटर, दो लैपटॉप, तीन मोबाइल इत्यादि।
+(Mere pass kaee cheezein hai jaise ki chaar computer, do laptop, teen mobile etc.)
+I have many things such as four computers, two laptops, three mobiles, etc.
+I have many things, e.g., four computers, two laptops, three mobiles, etc.
+
+उसके साथ कई लोग हैं जैसे कि रवि, राहुल, संजय आदि।
+(Uske saath kaee log hai, jaise ki Ravi, Rahul, Sanjay etc.)
+There are many people with him such as Ravi, Rahul, Sanjay, etc.
+]
+
+Ans. : Such as / e.g.
+
+
+==================================================
+
+
+> In such a way (इस तरह से, ऐसे )
+
+Q. 1. इस तरह से, ऐसे
+Example List [
+उसने इस तरह से मुझे घूरा कि मुझे लगा वो मुझसे लड़ने वाला है।
+(Usne is tarah se mujhe ghura ki mujhe laga vo mujhse ladne wala hai.)
+He stared at me in such a way that I thought he was going to fight me.
+
+तुम ऐसे बोलते हो कि हर कोई तुम्हारी बात सुनना पसन्द करता है।
+(Tum aise bolte ho ki har koi tumhaari baat sunna pasand karta hai.)
+You speak in such a way that everyone loves to listen to you.
+]
+
+Ans. : In such a way
+
+
+==================================================
+
+
+> As If / As though (ऐसे मानो; ऐसे जैसे कि )
+
+Q. 1. ऐसे मानो; ऐसे जैसे कि
+Example List [
+तुम तो हमें ऐसे बता रहे हो जैसे कि तुम्हें सब पता हो।
+(Tum to hume aise bata rahe ho jaise ki tumhe sab pata ho.)
+You are telling us as if you know everything.
+
+तुम तो ऐसे बात कर रहे हो जैसे मैं तुम्हारा दुश्मन हूँ।
+(Tum to aise baat kar rahe ho jaise main tumhaara dushman hun.)
+You are talking as if I am your enemy.
+
+तुम तो मुझे ऐसे डाँट रहे हो जैसे कि तुम मेरे बॉस हो।
+(Tum to mujhe aise daant rahe ho jaise ki tum mere boss ho.)
+You are scolding me as if you are my boss.
+
+वो मुझसे ऐसे व्यवहार कर रहे थे जैसे कि मैं उनका नौकर हूँ।
+(Vo mujhse aise vyavhar kar rahe the jaise ki main unka naukar hun.)
+He was treating me as if I was his servant.
+]
+
+Note: नोट – चौथे वाक्य में was का प्रयोग इसलिए हुआ है क्योंकि वाक्य बीते हुए समय की घटना को बता रहा है।
+Note – We used ‘was’ in the 4th sentence because the sentence refers to an incident in the past.
+
+Ans. : As if / As though
+
+
+==================================================
+
+
+> Either – or (या तो ये – या तो वो)
+
+Q. 1. या तो ये – या तो वो
+Example List [
+या तो तुम जाओ या मुझे जाने दो।
+(Ya to tum jaao ya mujhe jaane do.)
+Either you go or let me go.
+
+या तो राम जायेगा या फिर मैं जाऊँगा।
+(Ya to Ram jaayega ya fir main jaunga.)
+Either Ram will go or I will.
+
+मैं या तो दिल्ली जाऊँगा या मुम्बई।
+(Main ya to Delhi jaunga ya Mumbai.)
+I’ll either go to Delhi or Mumbai.
+
+या तो तुम गलत हो या वो।
+(Ya to tum galat ho ya vo.)
+Either you are wrong or he is.
+]
+
+Ans. : Either – or
+
+
+==================================================
+
+
+> Neither – nor ( न ये – न वो )
+
+Q. 1. न ये – न वो
+Example List [
+न तुम जाओ न उसे जाने दो।
+(Na tum jaao na use jaane do.)
+Neither you go nor let him go.
+
+मैं न दिल्ली जाऊँगा न मुम्बई।
+(Main na Delhi jaunga na Mumbai.)
+I’ll neither go to Delhi nor Mumbai.
+
+न मैं दिल्ली जाऊँगा न वो।
+(Na main Delhi jaunga na vo.)
+Neither I will go to Delhi nor he will.
+
+न तुम गलत हो न वो।
+(Na tum galat ho na vo.)
+Neither you are wrong nor he is.
+
+न मैंने उससे पूछा और न उसने मुझे बताया।
+(Na maine usse poocha aur na usne mujhe bataya.)
+Neither I asked him nor he told me.
+]
+
+Ans. : Neither – nor
+
+
+==================================================
+
+
+> Not …… Neither / Nor ( नहीं ….. वो भी नहीं )
+
+Q. 1. नहीं ….. वो भी नहीं
+Example List [
+तुम नहीं आते, वो भी नहीं आता।
+(Tum nahi aate , vo bhi nahi aata.)
+You don’t come, he doesn’t come either.
+You don’t come. Neither does he.
+You don’t come. Nor does he.
+
+मैंने नहीं पूछा। न उसने पूछा।
+(Maine nahi poocha. Na usne poocha.)
+I didn’t ask. He didn’t ask either.
+I didn’t ask. Neither did he.
+I didn’t ask. Nor did he.
+
+वो नहीं जा पाया। न मैं जा पाया।
+(Vo nahi jaa paaya. Na main jaa paaya.)
+He couldn’t go. I couldn’t go either.
+He couldn’t go. Neither could I.
+He couldn’t go. Nor could I.
+]
+
+Ans. : Either / Neither / Nor
+
+
+==================================================
+
+
+> So (वो भी)
+
+Q. 1. वो भी
+Example List [
+तुम आते हो। वो भी आता है।
+(Tum aate ho. Vo bhi aata hai.)
+You come. He comes too.
+You come. So does he.
+
+मैंने तुमसे पूछा। उसने भी।
+(Maine tumse poocha. Usne bhi.)
+I asked you. He asked too.
+I asked you. So did he.
+
+वो ये सफलतापूर्वक कर पाया। मैं भी।
+(Vo ye safaltapoorvak kar paaya. Main bhi.)
+He could do it successfully. I could do it successfully too.
+He could do it successfully. So could I.
+]
+
+Ans. : Too / So
+
+
+==================================================
+
+
+> Not only – but also (न केवल ये बल्कि वो भी  / यही नहीं वो भी)
+
+Q. 1. न केवल ये बल्कि वो भी / यही नहीं वो भी
+Example List [
+वो न केवल मैनेजर है बल्कि मेरा दोस्त भी है। / वो मैनेजर ही नहीं, मेरा दोस्त भी है।
+(Vo na kewal manager hai balki mera dost bhi hai / vo manager hi nahi, mera dost bhi hai.)
+He is not only the manager but also my friend.
+
+वो न केवल अंग्रेज़ी बल्कि पंजाबी भी बोल सकता है। / वो अंग्रेज़ी ही नहीं, पंजाबी भी बोल सकता है।
+(Vo na kewal angrezi balki punjabi bhi bol sakta hai. / vo angrezi hi nahi, punjabi bhi bol sakta hai.)
+He can speak not only English but also Punjabi.
+]
+
+Ans. : Not only – but also
+
+
+==================================================
+
+
+> Lest……should (कहीं ऐसा न हो कि, ये न हो कि )
+
+Rule: ‘Lest’ के बाद आने वाले वाक्य में ‘should’ का ही प्रयोग किया जाता है। (The sentence following ‘lest’ must use ‘should’ as a helping verb.)
+
+Q. 1. कहीं ऐसा न हो कि, ये न हो कि
+Example List [
+मैं मेहनत करुँगा कहीं ऐसा न हो कि मैं फेल हो जाऊँ।
+(Main mehnat karunga kahi aisa na ho ki main fail ho jaun.)
+I’ll work hard lest I should fail.
+
+सही पता लिखो कहीं ऐसा न हो कि कूरियर कहीं और चला जाए।
+(Sahi pata likho kahi aise na ho ki courier kahi aur chala jaye.)
+Write the correct address lest the courier should go somewhere else.
+
+वहाँ मत जाओ ये न हो कि वो तुम्हें डाँटें।
+(Vahan mat jaao ye na ho ki vo tumhe daante.)
+Don’t go there lest he should scold you.
+]
+
+Ans. : Lest … should
+
+
+==================================================
+
+
+> Otherwise / Or else (नहीं तो, वरना )
+
+Q. 1. नहीं तो, वरना
+Example List [
+मुझे मेहनत करनी पड़ेगी वरना मैं फेल हो जाऊँगा।
+(Mujhe mehnat karni padegi varna main fail ho jaunga.)
+I’ll have to work hard otherwise I will fail.
+I’ll have to work hard or else I will fail.
+
+सही पता लिखो नहीं तो कूरियर कहीं और जा सकता है।
+(Sahi pata likho nahin to courier kahin aur jaa sakta hai.)
+Write the correct address otherwise the courier can/could/may/might go somewhere else.
+Write the correct address or else the courier can/could/may/might go somewhere else.
+
+वहाँ मत जाओ नहीं तो वो तुम्हें डाँटेगा।
+(Vahan mat jaao nahi to vo tumhe daantega.)
+Don’t go there otherwise he will scold you.
+Don’t go there or else he will scold you.
+]
+
+Ans. : Otherwise / Or else
+
+
+==================================================
+
+
+> So that / So as to (ताकि )
+
+Q. 1. ताकि
+Example List [
+मैं मेहनत करुँगा ताकि मैं इग्ज़ैम में पास हो सकूँ।
+(Main mehnat karunga taki main exam me pass ho sakun.)
+I’ll work hard so that I could pass the exam.
+I’ll work hard so as to be able to pass the exam.
+
+सही पता लिखो ताकि कूरियर कहीं और न चला जाए।
+(Sahi pata likho taaki courier kahi aur na chala jaaye.)
+Write the correct address so that the courier doesn’t go anywhere else.
+Write the correct address so as to let the courier not go anywhere else.
+
+मेरे साथ ही रहो ताकि मैं बोर न होऊँ।
+(Mere saath hi raho taaki main bor na houn.)
+Stay with me so that I don’t get bored.
+Stay with me so as to let me not get bored.
+
+ये करो ताकि तुम भी कह सको कि तुमने कुछ किया है।
+(Ye karo taaki tum bhi keh sako ki tumne kuch kiya hai.)
+Do it so that you could also say that you have done something.
+Do it so as to be able to say that you have done something.
+]
+
+Ans. : So that / So as to
+
+
+==================================================
+
+
+> Provided / But only when / But only if (बशर्ते, पर शर्त  ये है कि, पर तब जब )
+
+Rule: Provided के साथ वाला वाक्य खंड ‘Present Indefinite Tense’ में ही बनता है भले ही वाक्य Future (गा गे गी) का हो।
+The clause with “Provided” must be in the present Indefinite Tense even if the clause appears to be in the future.
+
+Q. 1. बशर्ते, पर शर्त ये है कि, पर तब जब
+Example List [
+मैं तुमसे मिलूँगा, बशर्ते तुम मुझे वादा करो कि तुम मुझे रवि के बारे में नहीं पूछोगे।
+(Mai tumse milunga, basarte tum mujhe vada karo ki tum mujhe Ravi ke baare me nahi poochoge.)
+I’ll meet you, provided you promise me that you will not ask me about Ravi.
+I’ll meet you, but only when you promise me that you will not ask me about Ravi.
+I’ll meet you, but only if you promise me that you will not ask me about Ravi.
+
+वो आयेगा, पर शर्त ये है कि अमित नहीं आयेगा।
+(Vo aayega, par shart ye hai ki Amit nahi aayega.)
+He will come, provided Amit doesn’t come.
+He will come, but only when Amit doesn’t come.
+He will come, but only if Amit doesn’t come.
+
+मैं किताब वापस कर दूँगा पर तब जब आप मुझ पर पैनल्टी न लगाओ।
+(Main kitaab vapas kar dunga par tab jab aap mujh par penalty na lagao.)
+I’ll return the book, provided you don’t impose a penalty on me.
+I’ll give you the book, but only when you don’t impose a penalty on me.
+I’ll give you the book, but only if you don’t impose a penalty on me.
+]
+
+Ans. : Provided / But only when / But only if
+
+
+==================================================
+
+
+> “WH Word” used as a conjunction
+
+Q. 1. That’s what – यही तो, वही तो, यही बात तो, वही बात तो (किसी मुद्दे/वस्तु की बात हो रही है।) (talking about an issue or a thing)
+Example List [
+यही बात तो मैं कह रहा था।
+(Yahi baat to main keh raha tha.)
+That’s what I was saying.
+
+यही तो तुम उसे समझा रहे थे।
+(Yahi to tum use samjha rahe the.)
+That’s what you were making him understand.
+
+वही बात तो मुझे कन्फ्यूज़ कर रही है।
+(Vahi baat to mujhe confuse kar rahi hai.)
+That’s what is confusing me.
+
+यही तो मेरे पास नहीं है।
+(Yahi to mere pass nahi hai.)
+That’s what I don’t have.
+
+यही तो मैं ढूँढ रहा था।
+(Yahi to main dhoond raha tha.)
+That’s what I was looking for.
+
+यही किताब तो मैं ढूँढ रहा था।
+(Yahi kitaab to mai dhoond raha tha.)
+That’s the book I was looking for.
+
+वही तो मैंने वहाँ देखा।
+(Vahi to maine vahan dekha.)
+That’s what I saw there.
+
+वही पैन तो मैंने वहाँ देखा।
+(Vahi pen to maine vahan dekha.)
+That’s the pen I saw there.
+]
+
+Ans. : That’s what
+
+
+Q. 2. That’s whom – इसी को / उसी को (किसी सजीव (living being) की बात हो रही है।)
+Example List [
+मैंने उसी को डाँटा था।
+(Maine usi ko daanta tha.)
+That’s whom I had scolded.
+I had scolded him only.
+
+हम सब मदद के लिए उसी को बुला रहे थे।
+(Hum sab madad ke liye usi ko bula rahe the.)
+That’s whom we all were calling for help.
+We all were calling him only for help.
+
+वही तो मैंने वहाँ देखा।
+(Vahi to maine vahan dekha.)
+That’s whom I saw there.
+
+वही लड़का तो मैंने वहाँ देखा।
+(Vahi ladka to maine vahan dekha.)
+That’s the boy I saw there.
+
+उसी को मैंने ये काम दिया था।
+(Usi ko maine ye kaam diya tha.)
+That’s whom I had given this task to.
+
+उसी की बात मैं कर रहा था।
+(Usi kee baat main kar raha tha.)
+That’s whom I was talking about.
+
+उसी लड़के की बात मैं कर रहा था।
+(Usi ladke kee baat main kar raha tha.)
+That’s the boy I was talking about.
+]
+
+Ans. : That’s whom
+
+
+Q. 3. That’s where – यहीं तो, वहीं तो, इसी जगह तो, उसी जगह तो (किसी जगह की बात हो रही है।) (talking about a place)
+Example List [
+मैं वहीं तो जा रहा हूँ।
+(Main vahin to jaa raha hun.)
+That’s where I am going.
+
+वो उसी जगह तो खड़ा था।
+(Vo usi jagah to khada tha.)
+That’s where he was standing.
+
+हम यहीं तो मिले थे उस दिन।
+(Hum yahi to mile the us din.)
+That’s where we had met that day.
+
+आपने यहीं तो मेरे साथ मोमोज़ खाये थे।
+(Aapne yahin to mere saath momoz khaaye the.)
+That’s where you had eaten momos with me.
+]
+
+Ans. : That’s where
+
+
+Q. 4. That’s why – इसीलिए, तभी तो (किसी कारण की बात हो रही है।) (talking about a reason)
+Example List [
+तभी तो मैं तुम्हें बता रहा हूँ।
+(Tabhi to main tumhe bata raha hun.)
+That’s why I’m informing you.
+
+वो घर पर था इसीलिए मैंने कॉल किया।
+(Vo ghar par tha isiliye maine call kiya.)
+He was at home that’s why I called.
+
+मैं बीमार था, इसीलिए मैं नहीं आया ।
+(Main beemar tha, isiliye main nahi aaya.)
+I was unwell, that’s why I didn’t come.
+
+उसने ढंग से नहीं पढ़ा इसीलिए वो फेल हो गया।
+(Usne dhang se nahi pada isiliye vo fail ho gaya.)
+He didn’t study well, that’s why he failed.
+]
+
+Ans. : That’s why
+
+
+Q. 5. That’s how – इसी तरह तो, इसी तरह से (करने के तरीके की बात हो रही है।) (talking about a way of doing something.)
+Example List [
+मैंने ऐसे ही तो क्रिकेट खेलना सीखा।
+(Maine aise hi to cricket khelna seekha.)
+That’s how I learned to play cricket.
+
+मेरे पापा इसी तरह कम्प्यूटर सीखे।
+(Mere Papa isi tarah Computer seekhe.)
+That’s how my father learned computer.
+
+उसने इसी तरह मुझसे बात की वरना मैं उससे क्यों लड़ता!
+(Usne isi tarah mujhse baat ki varna main usse kyun ladta.)
+That’s how he talked to me otherwise why would I fight with him!
+]
+
+Ans. : That’s how
+
+
+Q. 6. That’s when – तभी, उसी समय (किसी समय की बात हो रही है।) (talking about a time)
+Example List [
+जब पापा आये, तभी मेरा दोस्त भी पहुँच गया।
+(Jab Papa aaye, tabhi mera dost bhi pahuch gaya.)
+When papa came, that’s when my friend reached too.
+
+उसी समय मैंने भी नौकरी ज्वाइन की।
+(Usi samay maine bhi naukri join ki.)
+That’s when I also joined the job.
+
+उसी साल मैंने भी नौकरी ज्वाइन की।
+(Usi saal maine bhi naukri join ki.)
+That’s the year I also joined the job.
+]
+
+Ans. : That’s when
+
+
+==================================================
+
+
+> While + Verb + ing
+
+Rule: “while” के बाद आने वाली क्रिया के साथ “ing” का प्रयोग होना अनिवार्य है। (The verb follows ‘while’ must be in the ‘ing’ form.)
+
+Q. 1. किसी काम को करते हुए दूसरा काम करना
+Example List [
+मैं चलते हुए पढ़ रहा हूँ।
+(Main chalte huwe pad raha hun.)
+I am studying while walking.
+
+क्या रवि पढ़ते हुए खाता है ?
+(Kya Ravi padhte huwe khaata hai?)
+Does Ravi eat while studying?
+
+वो मुझसे बात करते हुए तुम्हें देख रहा था।
+(Vo mujhse baat karte huwe tumhe dekh raha tha.)
+He was looking at you while talking to me.
+
+हम खेलते हुए लड़ रहे थे।
+(Hum khelte huwe lad rahe the.)
+We were fighting while playing.
+]
+
+Ans. : While + Verb + ing
+
+
+==================================================
+
+
+> Whereas / While (जबकि)
+
+Q. 1. जबकि
+Example List [
+मेरे पास 10 ₹ हैं जबकि तुम्हारे पास 50 ₹।
+(Mere pass 10 ₹ hai jabki tumhaare pass 50 ₹.)
+I have Rs 10 whereas you have 50. /
+I have Rs 10 while you have 50.
+
+जब रवि की शादी  हुई, वो 25 साल का था जबकि उसकी पत्नी 19 की।
+(Jab Ravi ki shadi hui, vo 25 saal ka tha jabki uski patni 19 ki.)
+When Ravi got married, he was 25 whereas his wife was 19. /
+When Ravi got married, he was 25 while his wife was 19.
+]
+
+Ans. : Whereas / While
+
+
+==================================================
+
+
+> Still / Even now (अभी भी, आज भी)
+
+Note:
+1. “still” का प्रयोग helping verb के बाद और main verb से पहले होता है, जबकि “even now” का प्रयोग हमेशा वाक्य की शुरूआत में या अन्त में होता है।
+“still” is used after the helping verb and just before the main verb, whereas “even now” is used either at the beginning or at the end of the sentence.
+2. “Even now” is generally used to express surprise or emphasis.
+
+Q. 1. अभी भी, आज भी
+Example List [
+मैं अभी भी पढ़ रहा हूँ।
+(Main abhi bhi pad raha hun.)
+I am still studying.
+I am studying even now.
+Even now, I am studying.
+
+क्या तुम्हारा भाई अभी भी खेलता है ?
+(Kya tumhaara bhaee abhi bhi khelta hai?)
+Does your brother still play?
+Does your brother play even now?
+
+वो आज भी मुझसे मिलता है।
+(Vo aaj bhi mujhse milta hai.)
+He still meets me.
+He meets me even now.
+Even now, he meets me.
+]
+
+Ans. : Still / Even now
+
+
+==================================================
+
+
+> Whether …… Or (चाहे —- या / कि —–या )
+
+Q. 1. Rule No 1: (चाहे —- या )
+Example List [
+चाहे वो आये या न आये, मैं तो जाऊँगा।
+(Chahe vo aaye ya na aaye, main to jaunga.)
+Whether he comes or not, I will go.
+
+चाहे पंकज खेले या न खेले, तुम्हें खेलना चाहिए।
+(Chahe Pankaj khele ya na khele, tumhe khelna chahiye.)
+Whether Pankaj plays or not, you should play.
+
+चाहे उसने किया या किसी और ने किया, कुल मिलाकर काम हो गया।
+(Chahe usne kiya ya kisi aur ne kiya, kul milakar kaam ho gya.)
+Whether he did it or someone else did it, ultimately the work is done.
+]
+
+Ans. : Whether … or
+
+
+Q. 2. Rule No 2: ( कि —– या )
+Example List [
+मैं कह नहीं सकता कि वो खेलेगा या नहीं।
+(Main keh nahi sakta ki vo khelega ya nahi.)
+I can’t say whether he will play or not.
+
+वो नहीं जानता था कि लोग आयेंगे भी या नहीं।
+(Vo nahi jaanta tha ki log aayenge bhi ya nahi.)
+He didn’t know whether people would come or not.
+
+हमें नहीं पता कि वो वहाँ जाता है या कहीं और।
+(Hume nahi pata ki vo vahan jaata hai ya kahi aur.)
+We have no idea whether he goes there or somewhere else.
+]
+
+Ans. : Whether … or
+
+
+==================================================
+
+
+> Hardly…….when / No sooner had…….than (ही था)
+
+Q. 1. ही था
+Example List [
+मैं पहुँचा ही था कि वो दोनों आ गये।
+(Main pahuncha hi tha ki vo dono aa gye.)
+I had hardly reached when they both came.
+No sooner had I reached than they both came.
+As soon as I reached, they both came.
+The moment I reached, they both came.
+
+हम स्टेशन पहुँचे ही थे कि ट्रेन चल दी।
+(Hum station pahunche hi the ki train chal di.)
+We had hardly reached the station when the train left.
+No sooner had we reached the station than the train left.
+As soon as we reached the station, the train left.
+The moment we reached the station, the train left.
+]
+
+Ans. : Hardly … when / No sooner had … than / As soon as / The moment
+
+
+==================================================
+
+
+> As yet / Yet / Till now / By now / So far (अभी तक, आज तक)
+
+Q. 1. अभी तक, आज तक
+Example List [
+मैंने अभी तक उसे नहीं देखा है।
+(Maine abhi tak use nahi dekha hai.)
+I have not seen him yet.
+I have not seen him as yet.
+I have not seen him till now.
+I have not seen him by now.
+I have not seen him so far.
+
+उसने अभी तक होमवर्क पूरा नहीं किया।
+(Usne abhi tak homework poora nahi kiya.)
+He hasn’t finished the homework yet.
+He hasn’t finished the homework as yet.
+He hasn’t finished the homework till now.
+He hasn’t finished the homework by now.
+He hasn’t finished the homework so far.
+
+अब तक का स्कोर क्या है?
+(Ab tak ka score kya hai?)
+What’s the score so far?
+What’s the score by now?
+What’s the score till now?
+
+अभी तक आपके पास क्या क्या है?
+(Abhi tak aapke paas kya kya hai?)
+What all do you have so far?
+What all do you have by now?
+What all do you have till now?
+]
+
+Ans. : As yet / Yet / Till now / By now / So far
+
+
+==================================================
+
+
+> Until / Unless (जब तक नहीं) & Till / Till the time (जब तक)
+
+Rule: महत्वपूर्ण बात ये है कि “जब तक” के साथ का वाक्य भले ही Future (गा गे गी) वाला हो पर फिर भी Present Indefinite Tense के अनुसार ही बनाया जाता है।
+
+Q. 1. जब तक नहीं / जब तक
+Example List [
+जब तक मैं नहीं आता, उसे कॉल मत करना।
+(Jab tak main nahi aata, use call mat karna.)
+Until I come, don’t call him.
+Unless I come, don’t call him.
+Until and Unless I come, don’t call him.
+Till I don’t come, don’t call him.
+Till the time I don’t come, don’t call him.
+
+हम नहीं खायेंगे जब तक वो नहीं आयेगा।
+(Hum nahi khayenge jab tak vo nahi aayega.)
+We will not eat until he comes.
+We will not eat unless he comes.
+We will not eat until and unless he comes.
+We will not eat till he doesn’t come.
+We will not eat till the time he doesn’t come.
+
+जब तक उन्होंने मुझसे नहीं पूछा, मैंने उन्हें नहीं बताया।
+(Jab tak unhone mujhe nhi poocha, maine unhe nahi bataya.)
+Until they asked me, I didn’t tell them.
+Unless they asked me, I didn’t tell them.
+Until and unless they asked me, I didn’t tell them.
+Till they didn’t ask me, I didn’t tell them.
+Till the time they didn’t ask me, I didn’t tell them.
+
+जब तक उसने नहीं पूछा, हम चुप रहे।
+(Jab tak usne nahi poocha, hum chup rahe.)
+Until he asked, we kept quiet.
+Unless he asked, we kept quiet.
+Until and unless he asked, we kept quiet.
+Till he didn’t ask, we kept quiet.
+Till the time he didn’t ask, we kept quiet.
+
+जब तक अमित मुझे अनुमति नहीं देगा, मैं चुप रहूँगा।
+(Jab tak Amit mujhe anumati nahi dega, main chup rahunga.)
+Until Amit allows me, I’ll keep quiet.
+Unless Amit allows me, I’ll keep quiet.
+Until and unless Amit allows me, I’ll keep quiet.
+Till Amit doesn’t allow me, I’ll keep quiet.
+Till the time Amit doesn’t allow me, I’ll keep quiet.
+
+जब तक आप हाँ नहीं कहेंगे, कोई नहीं हिलेगा।
+(Jab tak aap han nahi kahenge, koi nahi hilega.)
+Until you say yes, nobody will move.
+Unless you say yes, nobody will move.
+Till you don’t say yes, nobody will move.
+Till the time you don’t say yes, nobody will move.
+]
+
+Ans. : Until / Unless / Until and Unless / Till / Till the time
+
+
+==================================================
+
+
+> By the time (जब तक) / As long as (जब तक) = While = Till = Till the time
+
+Q. 1. By the time – जब तक
+Example List [
+जब तक वो आया, मैं जा चुका था।
+(Jab tak vo aaya , main jaa chuka tha.)
+By the time he came, I had left.
+
+जब तक आप अंग्रेज़ी सीखोगे, दुनिया फ्रैंच सीख रही होगी।
+(Jab tak aap Angrezi sikhoge, duniya French seekh rahi hogi.)
+By the time you learn English, the world will be learning French.
+]
+
+Ans. : By the time
+
+
+Q. 2. As long as / While / Till / Till the time – जब तक
+Example List [
+जब तक आप अंग्रेज़ी सीखोगे, मैं डांस सीखूँगा।
+(Jab tak aap angrezi sikhoge, main dance seekhunga.)
+As long as you learn English, I’ll learn dance.
+While you learn English, I’ll learn dance.
+Till you learn English, I’ll learn dance.
+Till the time you learn English, I’ll learn dance.
+
+जब तक तुम मेरे साथ हो, मुझे दुनिया की कोई परवाह नहीं।
+(Jab tak tum mere saath ho, mujhe duniya ki koi parvah nahi.)
+As long as you are with me, I don’t care about the world. /
+While you are with me, I don’t care about the world.
+
+जब तक तुम मेरे साथ हो, मैं लड़ता रहूँगा।
+(Jab tak tum mere saath ho, main ladta rahunga.)
+As long as you are with me, I will keep fighting. /
+While you are with me, I will keep fighting.
+
+जब तक तुम यहाँ हो, मैं भी रूकूँगा।
+(Jab tak tum yahan ho, main bhi rukunga.)
+As long as you’re here, I’ll stay too.
+While you’re here, I’ll stay too.
+]
+
+Ans. : As long as / While / Till / Till the time]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
